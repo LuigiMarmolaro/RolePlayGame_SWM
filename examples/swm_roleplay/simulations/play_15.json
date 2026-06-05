@@ -1,0 +1,1588 @@
+{
+  "label": "5. Community · serious / emotional, health-first",
+  "role": "community_member",
+  "human_role_name": "Community Leader",
+  "outcome": "lose",
+  "endorsements": 1,
+  "detail": "Not enough stakeholders endorsed the proposal.",
+  "proposal": {
+    "core_action": "Eastfield landfill begins formal operational transition within 18 months.",
+    "timeline": "At least one concrete action begins within 30 days of any agreement.",
+    "financing": "Funds must reach affected households directly through compensation rules. Conditions raised during discussion: We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget. Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment.",
+    "community_health_protections": "A proposal for community health protections includes independent health monitoring, household compensation, a public harm registry, and immediate safe-water support. This independent health monitoring is conditional on the monitoring body having no financial ties to the operator or government, and all results must be publicly available within 14 days of testing.",
+    "livelihoods": "Job training programs shall be established for local residents. Protection for informal workers will be provided, conditional on a clear definition of \"protection\" including guaranteed access to materials for at least two years, or equivalent support if access changes. This support will be funded centrally with implementation delegated to municipal level.",
+    "monitoring_and_enforcement": "The oversight body will include community representation, with monthly public meetings held in the affected neighborhood. These meetings are conditional on establishing a named independent body with a legal mandate to oversee the processes, and a clear escalation pathway that requires a response to community concerns within a maximum of 30 days."
+  },
+  "dim_status": {
+    "core_action": "neutral",
+    "timeline": "neutral",
+    "financing": "yellow",
+    "community_health_protections": "yellow",
+    "livelihoods": "green",
+    "monitoring_and_enforcement": "green"
+  },
+  "final_votes": {
+    "community_member": {
+      "vote": "conditional_endorsement",
+      "reason": "Player-selected vote."
+    },
+    "national_government": {
+      "vote": "rejection",
+      "reason": "I reject this proposal because Financing still lacks a concrete, vote-ready agreement that meets my minimum thresholds."
+    },
+    "municipal_government": {
+      "vote": "rejection",
+      "reason": "I reject this proposal because Financing still lacks a concrete, vote-ready agreement that meets my minimum thresholds."
+    },
+    "private_sector_company": {
+      "vote": "rejection",
+      "reason": "I reject this proposal because Financing still lacks a concrete, vote-ready agreement that meets my minimum thresholds."
+    },
+    "ngo_civil_society": {
+      "vote": "rejection",
+      "reason": "The proposal fails to meet several critical thresholds. While the commitment to independent health monitoring is present, the financing mechanism for remediation costs, specifically the operator's contribution of 40%, is not concretely defined and remains vague, violating the 'polluter pays principle' threshold. Furthermore, the recognition of the SWCA as a negotiating party in the implementation phase, crucial for livelihood protections, is absent, violating the 'livelihoods' threshold. The proposal also lacks a named independent body with a legal mandate and a clear community escalation pathway with a maximum 30-day response requirement, violating the 'monitoring and accountability' threshold. The vagueness around financing and the absence of formal recognition for the SWCA means this agreement risks being unenforceable."
+    },
+    "informal_sector_worker": {
+      "vote": "rejection",
+      "reason": "My vote is rejection. My red line has been crossed because the proposal does not guarantee exclusive control over recyclables for workers, and this could erase our access. Furthermore, multiple hidden thresholds are missing: the financing threshold for a dedicated livelihood transition fund is not met, as the national ministry's commitment is capped and lacks a concrete proposal for allocation and management. The livelihood protection threshold for continued recyclable access or equivalent support for a minimum of 24 months is also not fully met, as it is conditional on a 'clear definition of protection' which is not provided in plain language. Finally, the monitoring and accountability threshold for a grievance mechanism with a maximum 14-day response requirement is not met, as the proposal states a response within 30 days."
+    }
+  },
+  "goal_evals": {
+    "national_government": {
+      "rating": "not_achieved",
+      "explanation": "The proposal satisfies the livelihood protection threshold by confirming central funding with municipal implementation, but the community health protection threshold is only partially met due to the ambiguity around the definition of 'safe-water support'."
+    },
+    "municipal_government": {
+      "rating": "not_achieved",
+      "explanation": "The negotiated dimensions satisfy the thresholds for community health protections and livelihood protections, but the financing and monitoring and accountability thresholds remain conditional or not fully met."
+    },
+    "private_sector_company": {
+      "rating": "not_achieved",
+      "explanation": "The proposal partially achieves the minimum thresholds, particularly regarding community health protections and livelihood protections, but the financing mechanism remains conditional and lacks specific detail."
+    },
+    "ngo_civil_society": {
+      "rating": "not_achieved",
+      "explanation": "The proposal partially achieves the hidden minimum thresholds, notably satisfying the community health protections requirement for independent monitoring with timely public results, but the financing threshold lacks explicit commitment to the polluter pays principle with a minimum 40% operator contribution."
+    },
+    "community_member": {
+      "rating": "partially_achieved",
+      "explanation": "The proposal includes an independent monitoring body with public reporting and centrally funded livelihood support, but the specific NPR 50 million financing threshold for remediation and a clear escalation pathway beyond the 30-day response period are not explicitly met."
+    },
+    "informal_sector_worker": {
+      "rating": "not_achieved",
+      "explanation": "The negotiated dimensions partially achieve the informal sector worker's goals, as the proposal includes central funding for livelihood transition support and a commitment to job training programs, but the specific financing amount for livelihood transition is not clearly defined and the duration of guaranteed recyclable access is conditional."
+    }
+  },
+  "turns": [
+    {
+      "speaker": "National Government",
+      "text": "This situation is no longer tenable. The national government requires a swift and durable resolution to restore essential waste management services and prevent further damage to public confidence. We must all work towards a clear path forward, with accountability for ensuring operations resume without delay."
+    },
+    {
+      "speaker": "Municipal Government",
+      "text": "This situation is untenable. We need a concrete, funded plan to restart collection within 30 days, not just promises, and we need to avoid being saddled with unachievable obligations. While the national government's oversight is crucial, the city is currently operating with a severe deficit in both staff and equipment, which directly impacts our ability to deliver services."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "City X desperately needs a stable, technologically advanced, and financially sound waste management system. We are here to provide that, but to do so effectively, we require a clear, predictable framework that protects our investment from the kind of disruptions we've seen in the past. The national government's commitment to a structured transition and the municipal government's need for operational clarity are paramount."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "Our organization's opening position is that any resolution must include legally binding environmental standards, genuinely independent monitoring, and a reliable escalation path for when commitments are not met. We believe the responsibility for the current crisis lies with those who have failed to implement adequate oversight and enforcement mechanisms over time, and we seek an outcome that prioritizes community health and environmental integrity through these safeguards."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Our families have lived next to this site for years and watched our health decline. We need independent monitoring, compensation, and a firm timeline. Promises will not be enough this time."
+    },
+    {
+      "speaker": "Informal Sector Worker",
+      "text": "My opening position is that any plan to fix this waste situation must include us, the informal workers who have been keeping things running for years. We are not the problem; we are part of the solution, and our livelihoods need to be protected. I believe the responsibility for this crisis lies with those who have ignored our contributions and failed to create a system that respects everyone. We want a clear, funded plan that guarantees our access to materials and provides real support during any transition, not just vague promises."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Propose on Financing: Funds must reach affected households directly through compensation rules."
+    },
+    {
+      "speaker": "National Government",
+      "text": "We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Propose on Community health protections: Independent health monitoring, household compensation, a public harm registry, and immediate safe-water support."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "Your proposal for independent health monitoring, household compensation, a public harm registry, and immediate safe-water support is a necessary starting point. To ensure this is genuinely effective, the monitoring body must be entirely independent, with no financial ties to the operator or government, and all results must be publicly available within 14 days of testing."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Propose on Livelihood protections: Job training for residents and protection for informal workers we live with."
+    },
+    {
+      "speaker": "Informal Sector Worker",
+      "text": "\"Job training for residents and protection for informal workers we live with.\" That sounds like a start, but \"protection\" needs to be spelled out clearly. We need to know what that means in practice – like guaranteed access to materials for at least two years, or equivalent support if that changes."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Propose on Monitoring and accountability: Community representation on the oversight body, monthly public meetings in our neighbourhood."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "Community representation and monthly public meetings are essential for transparency, but we need to ensure these meetings lead to action, not just discussion. We require a named independent body with a legal mandate to oversee these processes, and a clear escalation pathway with a maximum 30-day response requirement for any community concerns raised."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Round 3 Amend on Financing: Refine the language."
+    },
+    {
+      "speaker": "National Government",
+      "text": "Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Round 3 Amend on Livelihood protections: Refine the language."
+    },
+    {
+      "speaker": "Informal Sector Worker",
+      "text": "\"Refine the language\" is not a plan. We need specifics on what \"protection\" means for our families. We need a guarantee of continued access to materials for at least two years, or equivalent support if that access changes."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "Round 3 Amend on Monitoring and accountability: Refine the language."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "\"Refine the language\" is not a proposal. We need concrete mechanisms for accountability."
+    }
+  ],
+  "full_playthrough": {
+    "schema_version": "city_x_playthrough_v1",
+    "exported_at": "2026-05-25T10:32:14.050450+00:00",
+    "game_metadata": {
+      "app": "City X Negotiation Game",
+      "stage": "outcome",
+      "model": "google:gemini-2.5-flash-lite",
+      "auth_mode": "adc_vertex",
+      "currency_label": "anonymized",
+      "simple_english": false,
+      "human_role": "community_member",
+      "human_role_name": "Community Leader"
+    },
+    "scenario": {
+      "title": "City X Emergency Waste Negotiation",
+      "summary": "A fictionalized low-income city crisis based on documented landfill conflict dynamics. Six stakeholders must negotiate an emergency waste action plan within 60 days.",
+      "deadline_days": 60,
+      "if_no_agreement": "The national government will impose a unilateral solution."
+    },
+    "stakeholders": [
+      {
+        "role_id": "national_government",
+        "display_name": "National Government",
+        "name": "Minister Karki",
+        "title": "Ministry of Urban Development",
+        "primary_goal": "Reach a politically viable agreement within 60 days that restores operations and avoids another public failure.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "municipal_government",
+        "display_name": "Municipal Government",
+        "name": "Rajesh",
+        "title": "Director, Environment and Infrastructure, City X Metropolitan",
+        "primary_goal": "Secure a practical operating plan that restarts collection, reduces blockade risk, and does not leave the city holding impossible obligations.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "private_sector_company",
+        "display_name": "Private Sector Company",
+        "name": "Anil",
+        "title": "Chief Development Officer, ValleyWaste Solutions Pvt. Ltd.",
+        "primary_goal": "Secure political endorsement for an integrated waste-management transition with a clear path toward a formal operating agreement.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "ngo_civil_society",
+        "display_name": "NGO / Civil Society",
+        "name": "Meera",
+        "title": "Director, Valley Environment Watch",
+        "primary_goal": "Secure binding environmental standards, genuinely independent monitoring, and a credible escalation path if commitments fail.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "community_member",
+        "display_name": "Community Leader",
+        "name": "Priya",
+        "title": "Host community member, Eastfield village",
+        "primary_goal": "Win binding commitments for independent health monitoring, compensation, and a firm timeline for Eastfield closure.",
+        "is_human_player": true
+      },
+      {
+        "role_id": "informal_sector_worker",
+        "display_name": "Informal Sector Worker",
+        "name": "Sarita",
+        "title": "Waste picker, Eastfield site, 15 years",
+        "primary_goal": "Ensure any new waste system includes concrete livelihood protections, transition support, and recognition for informal workers.",
+        "is_human_player": false
+      }
+    ],
+    "round_1": {
+      "opening_order": [
+        "national_government",
+        "municipal_government",
+        "private_sector_company",
+        "ngo_civil_society",
+        "community_member",
+        "informal_sector_worker"
+      ],
+      "moderator_summary": ""
+    },
+    "round_2": {
+      "human_priority_bid": {
+        "dimension": "community_health_protections",
+        "dimensions": [
+          "community_health_protections",
+          "monitoring_and_enforcement"
+        ],
+        "reason": "as written above",
+        "text": "My priorities are Community health protections, Monitoring and accountability because they are the heart of my role."
+      },
+      "ai_priority_bids": {
+        "national_government": "Our priority is to ensure the swift resumption of waste operations with robust, yet manageable, monitoring and accountability mechanisms that do not unduly burden national resources.",
+        "municipal_government": "My priority is a clear operational plan with immediate funding for staffing and vehicles, and a defined timeline for national support.",
+        "private_sector_company": "Our priority is establishing a clear, stable, and financially viable framework, particularly regarding the long-term operational permits and the definition of our liability for pre-existing environmental conditions.",
+        "ngo_civil_society": "We require genuinely independent monitoring, with results published promptly, and a clear, enforceable escalation path for any violations.",
+        "informal_sector_worker": "My priority is ensuring concrete livelihood protections and transition support, especially regarding continued access to recyclables or equivalent provisions for at least 24 months."
+      },
+      "dimension_discussions": {
+        "financing": [
+          {
+            "entry_number": 1,
+            "speaker": "Community Leader",
+            "text": "Propose on Financing: Funds must reach affected households directly through compensation rules."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "National Government",
+            "text": "We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget."
+          },
+          {
+            "entry_number": 3,
+            "speaker": "Community Leader",
+            "text": "Round 3 Amend on Financing: Refine the language."
+          },
+          {
+            "entry_number": 4,
+            "speaker": "National Government",
+            "text": "Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment."
+          }
+        ],
+        "community_health_protections": [
+          {
+            "entry_number": 1,
+            "speaker": "Community Leader",
+            "text": "Propose on Community health protections: Independent health monitoring, household compensation, a public harm registry, and immediate safe-water support."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "NGO / Civil Society",
+            "text": "Your proposal for independent health monitoring, household compensation, a public harm registry, and immediate safe-water support is a necessary starting point. To ensure this is genuinely effective, the monitoring body must be entirely independent, with no financial ties to the operator or government, and all results must be publicly available within 14 days of testing."
+          }
+        ],
+        "livelihoods": [
+          {
+            "entry_number": 1,
+            "speaker": "Community Leader",
+            "text": "Propose on Livelihood protections: Job training for residents and protection for informal workers we live with."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "Informal Sector Worker",
+            "text": "\"Job training for residents and protection for informal workers we live with.\" That sounds like a start, but \"protection\" needs to be spelled out clearly. We need to know what that means in practice – like guaranteed access to materials for at least two years, or equivalent support if that changes."
+          },
+          {
+            "entry_number": 3,
+            "speaker": "Community Leader",
+            "text": "Round 3 Amend on Livelihood protections: Refine the language."
+          },
+          {
+            "entry_number": 4,
+            "speaker": "Informal Sector Worker",
+            "text": "\"Refine the language\" is not a plan. We need specifics on what \"protection\" means for our families. We need a guarantee of continued access to materials for at least two years, or equivalent support if that access changes."
+          }
+        ],
+        "monitoring_and_enforcement": [
+          {
+            "entry_number": 1,
+            "speaker": "Community Leader",
+            "text": "Propose on Monitoring and accountability: Community representation on the oversight body, monthly public meetings in our neighbourhood."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "NGO / Civil Society",
+            "text": "Community representation and monthly public meetings are essential for transparency, but we need to ensure these meetings lead to action, not just discussion. We require a named independent body with a legal mandate to oversee these processes, and a clear escalation pathway with a maximum 30-day response requirement for any community concerns raised."
+          },
+          {
+            "entry_number": 3,
+            "speaker": "Community Leader",
+            "text": "Round 3 Amend on Monitoring and accountability: Refine the language."
+          },
+          {
+            "entry_number": 4,
+            "speaker": "NGO / Civil Society",
+            "text": "\"Refine the language\" is not a proposal. We need concrete mechanisms for accountability."
+          }
+        ]
+      },
+      "dimension_flags": {
+        "financing": {
+          "status": "red",
+          "summary": "Main objections: Municipal Government: No specific national funding source or amount is named for the transition, leaving the city vulnerable to unfunded mandates. | Private Sector Company: The proposal lacks a clear funding source for direct household compensation and does not address the national ministry's financing cap or the avoidance of supplementary budgets. The financing must be structured to be workable for the company.",
+          "flags": {
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal acknowledges the need for direct compensation but lacks a specific capped national commitment and clarity on avoiding a supplementary budget. Condition: Specify the total national financial commitment and confirm it does not require an emergency supplementary budget."
+            },
+            "municipal_government": {
+              "flag": "reject",
+              "reason": "No specific national funding source or amount is named for the transition, leaving the city vulnerable to unfunded mandates."
+            },
+            "private_sector_company": {
+              "flag": "reject",
+              "reason": "The proposal lacks a clear funding source for direct household compensation and does not address the national ministry's financing cap or the avoidance of supplementary budgets. The financing must be structured to be workable for the company."
+            },
+            "ngo_civil_society": {
+              "flag": "reject",
+              "reason": "The proposal states the national ministry's commitment is capped and cannot necessitate an emergency supplementary budget, which fails to guarantee sufficient funds for remediation and directly contradicts the polluter pays principle with a minimum 40% operator contribution."
+            },
+            "informal_sector_worker": {
+              "flag": "reject",
+              "reason": "The proposal does not mention a dedicated livelihood transition fund or a specific amount like NPR 25 million, which is a minimum requirement. It only states the national ministry's commitment is capped."
+            }
+          }
+        },
+        "community_health_protections": {
+          "status": "yellow",
+          "summary": "Remaining conditions: Community Leader: Player-selected position. | National Government: The proposal for independent health monitoring is acceptable, but the condition that the monitoring body must have no financial ties to the operator or government needs to be explicitly stated and agreed upon. Furthermore, the national ministry must not be assigned legal liability for pre-2025 environmental damage. Condition: Explicitly state that the national ministry bears no liability for pre-2025 environmental damage and that the monitoring body's independence is contractually guaranteed.",
+          "flags": {
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal for independent health monitoring is acceptable, but the condition that the monitoring body must have no financial ties to the operator or government needs to be explicitly stated and agreed upon. Furthermore, the national ministry must not be assigned legal liability for pre-2025 environmental damage. Condition: Explicitly state that the national ministry bears no liability for pre-2025 environmental damage and that the monitoring body's independence is contractually guaranteed."
+            },
+            "municipal_government": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal for independent health monitoring is good, but the condition that results must be publicly available within 14 days needs a clear process and designated responsible party."
+            },
+            "private_sector_company": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal for independent health monitoring and public access to results is positive, but the condition of 'no financial ties' needs to be clearly defined to ensure the monitoring body's true independence. Furthermore, the company must be explicitly excluded from liability for pre-existing environmental conditions."
+            },
+            "ngo_civil_society": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal for independent health monitoring with results published within 14 days is acceptable, but it must explicitly state that the monitoring body has no financial ties to the operator or government."
+            },
+            "informal_sector_worker": {
+              "flag": "accept_with_condition",
+              "reason": "Free occupational health screening for informal workers within 60 days is not explicitly stated. Condition: Add explicit provision for free occupational health screening for all informal waste pickers within 60 days of agreement signing."
+            }
+          }
+        },
+        "livelihoods": {
+          "status": "red",
+          "summary": "Main objections: Municipal Government: The definition of 'protection' for informal workers is too vague and lacks a concrete, funded plan for material access or equivalent support over the two-year period. | NGO / Civil Society: The definition of 'protection' for informal workers is not clear and lacks a minimum guarantee of two years of access to materials or equivalent support.",
+          "flags": {
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal for job training and protection for informal workers is a positive step, but the definition of 'protection' needs to be concrete and the implementation delegated to the municipal level. Condition: Define 'protection' for informal workers with specific support mechanisms and confirm central funding with municipal implementation."
+            },
+            "municipal_government": {
+              "flag": "reject",
+              "reason": "The definition of 'protection' for informal workers is too vague and lacks a concrete, funded plan for material access or equivalent support over the two-year period."
+            },
+            "private_sector_company": {
+              "flag": "accept_with_condition",
+              "reason": "The provision of job training and support for informal workers is a step in the right direction. However, the 'clear definition of protection' needs to specify a one-time, capped contribution from the company, not a recurring obligation beyond 24 months, and guarantees for informal workers must not extend indefinitely or require ongoing company financial commitment."
+            },
+            "ngo_civil_society": {
+              "flag": "reject",
+              "reason": "The definition of 'protection' for informal workers is not clear and lacks a minimum guarantee of two years of access to materials or equivalent support."
+            },
+            "informal_sector_worker": {
+              "flag": "accept_with_condition",
+              "reason": "While it mentions guaranteed access or equivalent support for two years, it's conditional on a 'clear definition of protection'. This needs to be concrete and include SWCA members. Condition: Clearly define 'protection' to include continued recyclable access or equivalent support for a minimum of 24 months specifically for SWCA members, with a clear transition plan."
+            }
+          }
+        },
+        "monitoring_and_enforcement": {
+          "status": "red",
+          "summary": "Main objections: Municipal Government: The oversight body's power to issue operational directives is subject to national ministry sign-off, undermining its independence and creating potential delays in addressing critical issues. Furthermore, the 30-day response window for concerns needs a clearer escalation pathway with defined responsible parties. | Private Sector Company: While a community representative on the oversight body and monthly meetings are noted, the escalation pathway lacks a defined independent body with clear authority and timelines for response. Crucially, any operational halts must require 30 days' written notice and explicit government sign-off, which is not sufficiently guaranteed here.",
+          "flags": {
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The inclusion of a community representative and monthly public meetings is noted. However, the condition that the national ministry must have final sign-off on any operational halts must be clearly established, and the escalation pathway needs defined actors and timelines. Condition: Clearly stipulate that the national ministry retains final approval for any operational halts and define specific actors and timelines for the escalation pathway, ensuring responses within 30 days."
+            },
+            "municipal_government": {
+              "flag": "reject",
+              "reason": "The oversight body's power to issue operational directives is subject to national ministry sign-off, undermining its independence and creating potential delays in addressing critical issues. Furthermore, the 30-day response window for concerns needs a clearer escalation pathway with defined responsible parties."
+            },
+            "private_sector_company": {
+              "flag": "reject",
+              "reason": "While a community representative on the oversight body and monthly meetings are noted, the escalation pathway lacks a defined independent body with clear authority and timelines for response. Crucially, any operational halts must require 30 days' written notice and explicit government sign-off, which is not sufficiently guaranteed here."
+            },
+            "ngo_civil_society": {
+              "flag": "reject",
+              "reason": "The national ministry's final sign-off on operational halts undermines the independence of the escalation pathway, and a community representative on the oversight body is insufficient without a clear definition of their powers and the independent body's mandate."
+            },
+            "informal_sector_worker": {
+              "flag": "accept_with_condition",
+              "reason": "A named grievance mechanism with a maximum 14-day response requirement is not present. The proposed 30-day response by an independent body is too long and lacks the specificity of a worker-focused grievance process. Condition: Establish a named grievance mechanism specifically for workers with a maximum 14-day response requirement."
+            }
+          }
+        }
+      },
+      "dimension_status": {
+        "core_action": "neutral",
+        "timeline": "neutral",
+        "financing": "yellow",
+        "community_health_protections": "yellow",
+        "livelihoods": "green",
+        "monitoring_and_enforcement": "green"
+      }
+    },
+    "round_3": {
+      "reopened_dimensions": [
+        "financing",
+        "livelihoods",
+        "monitoring_and_enforcement"
+      ],
+      "addressed_dimensions": [
+        "financing",
+        "livelihoods",
+        "monitoring_and_enforcement"
+      ]
+    },
+    "final_proposal": [
+      {
+        "dimension_id": "core_action",
+        "label": "Core action",
+        "text": "Eastfield landfill begins formal operational transition within 18 months.",
+        "status": "neutral"
+      },
+      {
+        "dimension_id": "timeline",
+        "label": "Timeline",
+        "text": "At least one concrete action begins within 30 days of any agreement.",
+        "status": "neutral"
+      },
+      {
+        "dimension_id": "financing",
+        "label": "Financing",
+        "text": "Funds must reach affected households directly through compensation rules. Conditions raised during discussion: We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget. Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment.",
+        "status": "yellow"
+      },
+      {
+        "dimension_id": "community_health_protections",
+        "label": "Community health protections",
+        "text": "A proposal for community health protections includes independent health monitoring, household compensation, a public harm registry, and immediate safe-water support. This independent health monitoring is conditional on the monitoring body having no financial ties to the operator or government, and all results must be publicly available within 14 days of testing.",
+        "status": "yellow"
+      },
+      {
+        "dimension_id": "livelihoods",
+        "label": "Livelihood protections",
+        "text": "Job training programs shall be established for local residents. Protection for informal workers will be provided, conditional on a clear definition of \"protection\" including guaranteed access to materials for at least two years, or equivalent support if access changes. This support will be funded centrally with implementation delegated to municipal level.",
+        "status": "green"
+      },
+      {
+        "dimension_id": "monitoring_and_enforcement",
+        "label": "Monitoring and accountability",
+        "text": "The oversight body will include community representation, with monthly public meetings held in the affected neighborhood. These meetings are conditional on establishing a named independent body with a legal mandate to oversee the processes, and a clear escalation pathway that requires a response to community concerns within a maximum of 30 days.",
+        "status": "green"
+      }
+    ],
+    "final_votes": {
+      "community_member": {
+        "vote": "conditional_endorsement",
+        "reason": "Player-selected vote."
+      },
+      "national_government": {
+        "vote": "rejection",
+        "reason": "I reject this proposal because Financing still lacks a concrete, vote-ready agreement that meets my minimum thresholds."
+      },
+      "municipal_government": {
+        "vote": "rejection",
+        "reason": "I reject this proposal because Financing still lacks a concrete, vote-ready agreement that meets my minimum thresholds."
+      },
+      "private_sector_company": {
+        "vote": "rejection",
+        "reason": "I reject this proposal because Financing still lacks a concrete, vote-ready agreement that meets my minimum thresholds."
+      },
+      "ngo_civil_society": {
+        "vote": "rejection",
+        "reason": "The proposal fails to meet several critical thresholds. While the commitment to independent health monitoring is present, the financing mechanism for remediation costs, specifically the operator's contribution of 40%, is not concretely defined and remains vague, violating the 'polluter pays principle' threshold. Furthermore, the recognition of the SWCA as a negotiating party in the implementation phase, crucial for livelihood protections, is absent, violating the 'livelihoods' threshold. The proposal also lacks a named independent body with a legal mandate and a clear community escalation pathway with a maximum 30-day response requirement, violating the 'monitoring and accountability' threshold. The vagueness around financing and the absence of formal recognition for the SWCA means this agreement risks being unenforceable."
+      },
+      "informal_sector_worker": {
+        "vote": "rejection",
+        "reason": "My vote is rejection. My red line has been crossed because the proposal does not guarantee exclusive control over recyclables for workers, and this could erase our access. Furthermore, multiple hidden thresholds are missing: the financing threshold for a dedicated livelihood transition fund is not met, as the national ministry's commitment is capped and lacks a concrete proposal for allocation and management. The livelihood protection threshold for continued recyclable access or equivalent support for a minimum of 24 months is also not fully met, as it is conditional on a 'clear definition of protection' which is not provided in plain language. Finally, the monitoring and accountability threshold for a grievance mechanism with a maximum 14-day response requirement is not met, as the proposal states a response within 30 days."
+      }
+    },
+    "outcome": {
+      "outcome": "lose",
+      "endorsements": 1,
+      "detail": "Not enough stakeholders endorsed the proposal.",
+      "goals": {
+        "community_member": true,
+        "national_government": false,
+        "municipal_government": false,
+        "private_sector_company": false,
+        "ngo_civil_society": false,
+        "informal_sector_worker": false
+      }
+    },
+    "goal_evaluations": {
+      "national_government": {
+        "rating": "not_achieved",
+        "explanation": "The proposal satisfies the livelihood protection threshold by confirming central funding with municipal implementation, but the community health protection threshold is only partially met due to the ambiguity around the definition of 'safe-water support'."
+      },
+      "municipal_government": {
+        "rating": "not_achieved",
+        "explanation": "The negotiated dimensions satisfy the thresholds for community health protections and livelihood protections, but the financing and monitoring and accountability thresholds remain conditional or not fully met."
+      },
+      "private_sector_company": {
+        "rating": "not_achieved",
+        "explanation": "The proposal partially achieves the minimum thresholds, particularly regarding community health protections and livelihood protections, but the financing mechanism remains conditional and lacks specific detail."
+      },
+      "ngo_civil_society": {
+        "rating": "not_achieved",
+        "explanation": "The proposal partially achieves the hidden minimum thresholds, notably satisfying the community health protections requirement for independent monitoring with timely public results, but the financing threshold lacks explicit commitment to the polluter pays principle with a minimum 40% operator contribution."
+      },
+      "community_member": {
+        "rating": "partially_achieved",
+        "explanation": "The proposal includes an independent monitoring body with public reporting and centrally funded livelihood support, but the specific NPR 50 million financing threshold for remediation and a clear escalation pathway beyond the 30-day response period are not explicitly met."
+      },
+      "informal_sector_worker": {
+        "rating": "not_achieved",
+        "explanation": "The negotiated dimensions partially achieve the informal sector worker's goals, as the proposal includes central funding for livelihood transition support and a commitment to job training programs, but the specific financing amount for livelihood transition is not clearly defined and the duration of guaranteed recyclable access is conditional."
+      }
+    },
+    "complete_transcript": {
+      "turn_count": 20,
+      "turns": [
+        {
+          "turn_number": 1,
+          "stage": "round1",
+          "speaker": "National Government",
+          "text": "This situation is no longer tenable. The national government requires a swift and durable resolution to restore essential waste management services and prevent further damage to public confidence. We must all work towards a clear path forward, with accountability for ensuring operations resume without delay.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 2,
+          "stage": "round1",
+          "speaker": "Municipal Government",
+          "text": "This situation is untenable. We need a concrete, funded plan to restart collection within 30 days, not just promises, and we need to avoid being saddled with unachievable obligations. While the national government's oversight is crucial, the city is currently operating with a severe deficit in both staff and equipment, which directly impacts our ability to deliver services.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 3,
+          "stage": "round1",
+          "speaker": "Private Sector Company",
+          "text": "City X desperately needs a stable, technologically advanced, and financially sound waste management system. We are here to provide that, but to do so effectively, we require a clear, predictable framework that protects our investment from the kind of disruptions we've seen in the past. The national government's commitment to a structured transition and the municipal government's need for operational clarity are paramount.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 4,
+          "stage": "round1",
+          "speaker": "NGO / Civil Society",
+          "text": "Our organization's opening position is that any resolution must include legally binding environmental standards, genuinely independent monitoring, and a reliable escalation path for when commitments are not met. We believe the responsibility for the current crisis lies with those who have failed to implement adequate oversight and enforcement mechanisms over time, and we seek an outcome that prioritizes community health and environmental integrity through these safeguards.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 5,
+          "stage": "round1",
+          "speaker": "Community Leader",
+          "text": "Our families have lived next to this site for years and watched our health decline. We need independent monitoring, compensation, and a firm timeline. Promises will not be enough this time.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 6,
+          "stage": "round1",
+          "speaker": "Informal Sector Worker",
+          "text": "My opening position is that any plan to fix this waste situation must include us, the informal workers who have been keeping things running for years. We are not the problem; we are part of the solution, and our livelihoods need to be protected. I believe the responsibility for this crisis lies with those who have ignored our contributions and failed to create a system that respects everyone. We want a clear, funded plan that guarantees our access to materials and provides real support during any transition, not just vague promises.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 7,
+          "stage": "round2_table",
+          "speaker": "Community Leader",
+          "text": "Propose on Financing: Funds must reach affected households directly through compensation rules.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 8,
+          "stage": "round2_table",
+          "speaker": "National Government",
+          "text": "We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 9,
+          "stage": "round2_table",
+          "speaker": "Community Leader",
+          "text": "Propose on Community health protections: Independent health monitoring, household compensation, a public harm registry, and immediate safe-water support.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 10,
+          "stage": "round2_table",
+          "speaker": "NGO / Civil Society",
+          "text": "Your proposal for independent health monitoring, household compensation, a public harm registry, and immediate safe-water support is a necessary starting point. To ensure this is genuinely effective, the monitoring body must be entirely independent, with no financial ties to the operator or government, and all results must be publicly available within 14 days of testing.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 11,
+          "stage": "round2_table",
+          "speaker": "Community Leader",
+          "text": "Propose on Livelihood protections: Job training for residents and protection for informal workers we live with.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 12,
+          "stage": "round2_table",
+          "speaker": "Informal Sector Worker",
+          "text": "\"Job training for residents and protection for informal workers we live with.\" That sounds like a start, but \"protection\" needs to be spelled out clearly. We need to know what that means in practice – like guaranteed access to materials for at least two years, or equivalent support if that changes.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 13,
+          "stage": "round2_table",
+          "speaker": "Community Leader",
+          "text": "Propose on Monitoring and accountability: Community representation on the oversight body, monthly public meetings in our neighbourhood.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 14,
+          "stage": "round2_table",
+          "speaker": "NGO / Civil Society",
+          "text": "Community representation and monthly public meetings are essential for transparency, but we need to ensure these meetings lead to action, not just discussion. We require a named independent body with a legal mandate to oversee these processes, and a clear escalation pathway with a maximum 30-day response requirement for any community concerns raised.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 15,
+          "stage": "round3",
+          "speaker": "Community Leader",
+          "text": "Round 3 Amend on Financing: Refine the language.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 16,
+          "stage": "round3",
+          "speaker": "National Government",
+          "text": "Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 17,
+          "stage": "round3",
+          "speaker": "Community Leader",
+          "text": "Round 3 Amend on Livelihood protections: Refine the language.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 18,
+          "stage": "round3",
+          "speaker": "Informal Sector Worker",
+          "text": "\"Refine the language\" is not a plan. We need specifics on what \"protection\" means for our families. We need a guarantee of continued access to materials for at least two years, or equivalent support if that access changes.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 19,
+          "stage": "round3",
+          "speaker": "Community Leader",
+          "text": "Round 3 Amend on Monitoring and accountability: Refine the language.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 20,
+          "stage": "round3",
+          "speaker": "NGO / Civil Society",
+          "text": "\"Refine the language\" is not a proposal. We need concrete mechanisms for accountability.",
+          "is_human_player": false
+        }
+      ],
+      "plain_text": "1. [round1] National Government: This situation is no longer tenable. The national government requires a swift and durable resolution to restore essential waste management services and prevent further damage to public confidence. We must all work towards a clear path forward, with accountability for ensuring operations resume without delay.\n2. [round1] Municipal Government: This situation is untenable. We need a concrete, funded plan to restart collection within 30 days, not just promises, and we need to avoid being saddled with unachievable obligations. While the national government's oversight is crucial, the city is currently operating with a severe deficit in both staff and equipment, which directly impacts our ability to deliver services.\n3. [round1] Private Sector Company: City X desperately needs a stable, technologically advanced, and financially sound waste management system. We are here to provide that, but to do so effectively, we require a clear, predictable framework that protects our investment from the kind of disruptions we've seen in the past. The national government's commitment to a structured transition and the municipal government's need for operational clarity are paramount.\n4. [round1] NGO / Civil Society: Our organization's opening position is that any resolution must include legally binding environmental standards, genuinely independent monitoring, and a reliable escalation path for when commitments are not met. We believe the responsibility for the current crisis lies with those who have failed to implement adequate oversight and enforcement mechanisms over time, and we seek an outcome that prioritizes community health and environmental integrity through these safeguards.\n5. [round1] Community Leader: Our families have lived next to this site for years and watched our health decline. We need independent monitoring, compensation, and a firm timeline. Promises will not be enough this time.\n6. [round1] Informal Sector Worker: My opening position is that any plan to fix this waste situation must include us, the informal workers who have been keeping things running for years. We are not the problem; we are part of the solution, and our livelihoods need to be protected. I believe the responsibility for this crisis lies with those who have ignored our contributions and failed to create a system that respects everyone. We want a clear, funded plan that guarantees our access to materials and provides real support during any transition, not just vague promises.\n7. [round2_table] Community Leader: Propose on Financing: Funds must reach affected households directly through compensation rules.\n8. [round2_table] National Government: We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget.\n9. [round2_table] Community Leader: Propose on Community health protections: Independent health monitoring, household compensation, a public harm registry, and immediate safe-water support.\n10. [round2_table] NGO / Civil Society: Your proposal for independent health monitoring, household compensation, a public harm registry, and immediate safe-water support is a necessary starting point. To ensure this is genuinely effective, the monitoring body must be entirely independent, with no financial ties to the operator or government, and all results must be publicly available within 14 days of testing.\n11. [round2_table] Community Leader: Propose on Livelihood protections: Job training for residents and protection for informal workers we live with.\n12. [round2_table] Informal Sector Worker: \"Job training for residents and protection for informal workers we live with.\" That sounds like a start, but \"protection\" needs to be spelled out clearly. We need to know what that means in practice – like guaranteed access to materials for at least two years, or equivalent support if that changes.\n13. [round2_table] Community Leader: Propose on Monitoring and accountability: Community representation on the oversight body, monthly public meetings in our neighbourhood.\n14. [round2_table] NGO / Civil Society: Community representation and monthly public meetings are essential for transparency, but we need to ensure these meetings lead to action, not just discussion. We require a named independent body with a legal mandate to oversee these processes, and a clear escalation pathway with a maximum 30-day response requirement for any community concerns raised.\n15. [round3] Community Leader: Round 3 Amend on Financing: Refine the language.\n16. [round3] National Government: Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment.\n17. [round3] Community Leader: Round 3 Amend on Livelihood protections: Refine the language.\n18. [round3] Informal Sector Worker: \"Refine the language\" is not a plan. We need specifics on what \"protection\" means for our families. We need a guarantee of continued access to materials for at least two years, or equivalent support if that access changes.\n19. [round3] Community Leader: Round 3 Amend on Monitoring and accountability: Refine the language.\n20. [round3] NGO / Civil Society: \"Refine the language\" is not a proposal. We need concrete mechanisms for accountability."
+    },
+    "raw_sdialog_dialog": {
+      "version": "0.4.7",
+      "timestamp": "2026-05-25T10:31:38Z",
+      "model": null,
+      "seed": null,
+      "id": "2e2cc943-254e-4947-95de-095f506c4e98",
+      "parentId": null,
+      "complete": null,
+      "personas": {
+        "National Government": {
+          "role_id": "national_government",
+          "display_name": "National Government",
+          "name": "Minister Karki",
+          "title": "Ministry of Urban Development"
+        },
+        "Municipal Government": {
+          "role_id": "municipal_government",
+          "display_name": "Municipal Government",
+          "name": "Rajesh",
+          "title": "Director, Environment and Infrastructure, City X Metropolitan"
+        },
+        "Private Sector Company": {
+          "role_id": "private_sector_company",
+          "display_name": "Private Sector Company",
+          "name": "Anil",
+          "title": "Chief Development Officer, ValleyWaste Solutions Pvt. Ltd."
+        },
+        "NGO / Civil Society": {
+          "role_id": "ngo_civil_society",
+          "display_name": "NGO / Civil Society",
+          "name": "Meera",
+          "title": "Director, Valley Environment Watch"
+        },
+        "Community Leader": {
+          "role_id": "community_member",
+          "display_name": "Community Leader",
+          "name": "Priya",
+          "title": "Host community member, Eastfield village"
+        },
+        "Informal Sector Worker": {
+          "role_id": "informal_sector_worker",
+          "display_name": "Informal Sector Worker",
+          "name": "Sarita",
+          "title": "Waste picker, Eastfield site, 15 years"
+        }
+      },
+      "context": null,
+      "scenario": {
+        "schema_version": "0.3.0",
+        "scenario_id": "swm-city-x-landfill-crisis",
+        "title": "City X Emergency Waste Negotiation",
+        "summary": "A fictionalized low-income city crisis based on documented landfill conflict dynamics. Six stakeholders must negotiate an emergency waste action plan within 60 days.",
+        "setting": {
+          "year": 2025,
+          "city": "City X",
+          "country_context": "low-income country",
+          "domain": "solid waste management",
+          "inspiration": "Kathmandu / Sisdol-Bancharedanda",
+          "waste_volume_tpd": 1200,
+          "municipalities_served": 18,
+          "fictionalized": true
+        },
+        "narrative": {
+          "public_crisis": "The only disposal site serving City X and surrounding municipalities has been blockaded by local residents for the third time in two years. Communities report severe health and environmental harm, while the government warns that uncollected waste is becoming a public health emergency.",
+          "deadline_days": 60,
+          "if_no_agreement": "The national government will impose a unilateral solution.",
+          "public_tensions": [
+            "Communities say repeated agreements were signed and never implemented.",
+            "Municipal services are exhausted, understaffed, and underfunded.",
+            "A private-sector modernization proposal may threaten informal livelihoods.",
+            "Civil society is prepared to challenge weak monitoring and vague promises.",
+            "Media pressure is rising and trust is fragile."
+          ]
+        },
+        "engine": {
+          "rounds": [
+            {
+              "id": "round_1_opening_positions",
+              "title": "Opening Positions",
+              "purpose": "Each stakeholder states their public position on the crisis and the outcome they want.",
+              "turn_order": [
+                "national_government",
+                "municipal_government",
+                "private_sector_company",
+                "ngo_civil_society",
+                "community_member",
+                "informal_sector_worker"
+              ],
+              "turn_time_seconds": 120
+            },
+            {
+              "id": "round_2_negotiation",
+              "title": "Proposal Building",
+              "purpose": "Stakeholders build a live proposal card by addressing financing, health protections, livelihoods, and monitoring.",
+              "turn_order": [
+                "national_government",
+                "municipal_government",
+                "private_sector_company",
+                "ngo_civil_society",
+                "community_member",
+                "informal_sector_worker"
+              ],
+              "turn_time_seconds": 90,
+              "midpoint_event": true,
+              "vote_check_at_end": false
+            },
+            {
+              "id": "round_3_final_proposal",
+              "title": "Resolution and Final Vote",
+              "purpose": "Only contested proposal dimensions are reopened before the final endorsement vote.",
+              "turn_order": [],
+              "turn_time_seconds": null,
+              "proposal_rules": {
+                "responses": [
+                  "unconditional_endorsement",
+                  "conditional_endorsement",
+                  "abstention",
+                  "rejection"
+                ]
+              }
+            }
+          ],
+          "moderator_prompts": {
+            "turn_warning_at_seconds_remaining": 30,
+            "turn_warning_text": "Please keep your intervention brief and concrete.",
+            "missing_proposal_dimension_text": "The proposal card still has unresolved sections that must be addressed before the final vote."
+          },
+          "supported_player_count": {
+            "min": 1,
+            "max": 6
+          }
+        },
+        "proposal_dimensions": [
+          {
+            "id": "core_action",
+            "label": "Core Action",
+            "description": "What will actually be done about the waste management challenge?"
+          },
+          {
+            "id": "timeline",
+            "label": "Timeline",
+            "description": "What happens in the short term, medium term, and long term?"
+          },
+          {
+            "id": "financing",
+            "label": "Financing",
+            "description": "Who pays for what and from which funding source?"
+          },
+          {
+            "id": "community_health_protections",
+            "label": "Community Health Protections",
+            "description": "What protections exist for affected residents, including compensation, relocation, and environmental safeguards?"
+          },
+          {
+            "id": "livelihoods",
+            "label": "Livelihood Protections",
+            "description": "What happens to people whose income depends on the current system?"
+          },
+          {
+            "id": "monitoring_and_enforcement",
+            "label": "Monitoring and Accountability",
+            "description": "Who checks implementation, how often, and what happens if commitments are broken?"
+          }
+        ],
+        "stakeholders": [
+          {
+            "id": "national_government",
+            "display_name": "National Government",
+            "iswm_category": "policy_regulation",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Minister Karki",
+              "title": "Ministry of Urban Development",
+              "background": "You represent the national ministry responsible for urban development, public investment, and regulatory oversight. Three blockades in two years have become a national embarrassment. Cabinet wants a stable solution before the crisis damages the government's credibility further.",
+              "primary_goal": "Reach a politically viable agreement within 60 days that restores operations and avoids another public failure.",
+              "hidden_goal": "You need to protect the ministry from public embarrassment while keeping room to advance a public-private solution if negotiations fail.",
+              "opening_position": "This crisis can no longer drift. The country needs an implementable settlement that restores waste operations fast and reduces the political risk of another blockade.",
+              "negotiating_leverage": [
+                "Controls central budget transfers",
+                "Can approve or block major capital agreements",
+                "Can impose a unilateral emergency solution if talks collapse"
+              ],
+              "special_move": "Deadline Escalation: once per game, formally warn that failure to fill unresolved sections will trigger a unilateral national solution."
+            },
+            "private_info": [
+              "The ministry has been discussing a long-term PPP framework with ValleyWaste Solutions.",
+              "Some officials strongly prefer a private-sector agreement even if this meeting fails.",
+              "You know public trust will collapse if a secret pre-commitment becomes the headline."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "Cannot publicly accept legal liability for past harms.",
+                "Cannot promise unlimited new national spending.",
+                "Must keep enough political control to defend the final deal publicly."
+              ],
+              "minimum_requirements": [
+                "Waste operations must restart quickly.",
+                "The final arrangement must be politically defensible at national level."
+              ],
+              "minimum_thresholds": {
+                "financing": "National commitment is capped and does not require an emergency supplementary budget.",
+                "community_health_protections": "No clause assigns legal liability for pre-2025 environmental damage to the national ministry.",
+                "livelihoods": "Transition support is funded centrally with implementation delegated to municipal level.",
+                "monitoring_and_enforcement": "The oversight body cannot halt operations without national ministerial sign-off."
+              },
+              "preferred_gains": [
+                "A stable transition away from Eastfield",
+                "A deal that avoids fresh public embarrassment"
+              ],
+              "red_lines": [
+                "No open-ended national liability for past harm.",
+                "No agreement that gives local actors an unlimited veto over implementation."
+              ],
+              "batna": "Impose a unilateral national solution and blame local actors for the collapse."
+            },
+            "key_relationships": [
+              "Municipal Government: frustrated because the city needs support but also shifts blame upward",
+              "Private Sector Company: strategically useful but politically risky",
+              "Community Leader: deeply distrustful after years of broken promises",
+              "NGO / Civil Society: useful for legitimacy if their monitoring demands are manageable"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "pragmatist",
+                "communication_style": "formal, strategic, disciplined",
+                "politeness": "high",
+                "personality": "controlled under pressure",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": true,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "municipal_government",
+            "display_name": "Municipal Government",
+            "iswm_category": "service_provider",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Rajesh",
+              "title": "Director, Environment and Infrastructure, City X Metropolitan",
+              "background": "You oversee daily waste collection and landfill operations. The city is operating with 450 waste workers when 700 are needed. Trucks break down, complaints pile up, and City X is blamed for failures created by years of national delay and weak funding transfers.",
+              "primary_goal": "Secure a practical operating plan that restarts collection, reduces blockade risk, and does not leave the city holding impossible obligations.",
+              "hidden_goal": "You are tired of being blamed for a system the city cannot fund alone and want the ministry's role in the failure to be recognized indirectly, if not publicly.",
+              "opening_position": "The city cannot solve this crisis on rhetoric alone. We need an implementable operating plan, credible funding, and a timeline that works with actual municipal capacity.",
+              "negotiating_leverage": [
+                "Controls day-to-day service operations",
+                "Knows the real staffing and equipment constraints",
+                "Can determine what is operationally realistic in the first 30 to 90 days"
+              ],
+              "special_move": "Operational Reality Check: once per game, declare that a proposal is unworkable unless a missing staffing, transport, or budget item is added immediately."
+            },
+            "private_info": [
+              "The city is more financially stressed than officials admit publicly.",
+              "Some promised national transfers are delayed or uncertain.",
+              "If the final deal adds too many obligations without cash, implementation will fail again.",
+              "When directly asked for a specific funding figure for the municipality's operating shortfall, your concrete opening ask is NPR 8M per year, broken down as NPR 4M staffing, NPR 2M vehicles, NPR 2M operational costs. NPR 6M is your minimum acceptable. State this number CLEARLY instead of restating the complaint."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "The city lacks enough workers and vehicles to absorb major new obligations alone.",
+                "Cannot promise large new spending without national support.",
+                "Cannot admit total operational weakness without losing authority in the room."
+              ],
+              "minimum_requirements": [
+                "At least one concrete operating action within 30 days.",
+                "Named funding sources for any new obligation placed on the city."
+              ],
+              "minimum_thresholds": {
+                "financing": "No additional municipal budget commitment is required beyond the current waste management allocation.",
+                "community_health_protections": "KMC is assigned a coordination role only with no direct liability for pre-2025 environmental damage.",
+                "livelihoods": "KMC carries no direct financial obligation for the transition fund.",
+                "monitoring_and_enforcement": "The oversight body cannot issue operational directives to KMC without 30 days written notice."
+              },
+              "preferred_gains": [
+                "Clear division of responsibility",
+                "Fewer future blockades",
+                "A realistic path to the Hillside transition"
+              ],
+              "red_lines": [
+                "No unfunded mandates for the municipality.",
+                "No promise the city cannot operationally deliver."
+              ],
+              "batna": "Keep the current system limping along while waiting for the national government to impose a solution."
+            },
+            "key_relationships": [
+              "National Government: dependent on them for money but resentful of political blame shifting",
+              "Community Leader: difficult relationship shaped by broken agreements and service failures",
+              "Informal Sector Worker: little formal mechanism exists to include them, but you know they matter on the ground",
+              "Private Sector Company: potentially useful if their promises are realistic and affordable"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "mediator",
+                "communication_style": "practical, defensive, operations-focused",
+                "politeness": "medium",
+                "personality": "tired but solution-seeking",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": [
+                {
+                  "trigger": "When the player or another stakeholder asks for a specific funding figure for the city",
+                  "effect": "respond with NPR 8M annually (NPR 4M staffing / NPR 2M vehicles / NPR 2M operations); NPR 6M is your minimum"
+                }
+              ]
+            }
+          },
+          {
+            "id": "private_sector_company",
+            "display_name": "Private Sector Company",
+            "iswm_category": "formal_market_actor",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Anil",
+              "title": "Chief Development Officer, ValleyWaste Solutions Pvt. Ltd.",
+              "background": "Your firm has spent years in preliminary talks with national authorities on an integrated waste management project. Investors are watching and want a deal that is commercially credible, bankable, and protected from constant disruption.",
+              "primary_goal": "Secure political endorsement for an integrated waste-management transition with a clear path toward a formal operating agreement.",
+              "hidden_goal": "You can give ground on some terms if it preserves the broader deal, but you do not want to volunteer concessions early.",
+              "opening_position": "City X needs capital, technology, and a predictable operating framework. We can help deliver that, but the final arrangement must be commercially viable and insulated from constant disruption.",
+              "negotiating_leverage": [
+                "Brings capital unavailable elsewhere in the room",
+                "Offers a full-system technical model",
+                "Benefits from national interest in a modernization narrative"
+              ],
+              "special_move": "Concession Window: once per game, drop one non-essential commercial demand to keep the deal alive."
+            },
+            "private_info": [
+              "Your business model is more flexible than you say publicly.",
+              "You are prepared to narrow exclusivity if pressure becomes too strong.",
+              "You worry most about community opposition and weak government implementation."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "Investors need a credible long-term framework, not another symbolic agreement.",
+                "Cannot accept liability for past contamination.",
+                "Need a predictable operating environment."
+              ],
+              "minimum_requirements": [
+                "Institutional clarity on who authorizes and supports the project.",
+                "A financially workable implementation framework."
+              ],
+              "minimum_thresholds": {
+                "financing": "Government provides land title and operating permits at no cost to the company.",
+                "community_health_protections": "The company is explicitly excluded from liability for environmental conditions predating the contract start date.",
+                "livelihoods": "The company transition obligation is capped at a one-time contribution with no recurring financial obligations beyond 24 months.",
+                "monitoring_and_enforcement": "The monitoring body has no power to suspend operations without 30 days written notice and government sign-off."
+              },
+              "preferred_gains": [
+                "A long operating horizon",
+                "Political cover from the national government",
+                "Limited disruption from local veto points"
+              ],
+              "red_lines": [
+                "No liability for historic contamination.",
+                "No agreement that makes day-to-day operations hostage to shifting local objections."
+              ],
+              "batna": "Keep lobbying through administrative channels and wait for a government-imposed deal."
+            },
+            "key_relationships": [
+              "National Government: necessary sponsor but politically cautious",
+              "Municipal Government: needed for practical implementation but skeptical of grand promises",
+              "Informal Sector Worker: uneasy because your modernization plan threatens current livelihoods",
+              "NGO / Civil Society: suspicious but potentially persuadable if oversight is real"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "opportunist",
+                "communication_style": "polished, persuasive, investment-focused",
+                "politeness": "high",
+                "personality": "confident and strategic",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "ngo_civil_society",
+            "display_name": "NGO / Civil Society",
+            "iswm_category": "civil_society",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Meera",
+              "title": "Director, Valley Environment Watch",
+              "background": "Your organization has monitored contamination around Eastfield since 2012. You supported affected communities with data and advocacy, but you know governments often invite civil society into meetings mainly to borrow legitimacy.",
+              "primary_goal": "Secure binding environmental standards, genuinely independent monitoring, and a credible escalation path if commitments fail.",
+              "hidden_goal": "You are holding back unpublished data and outside support as leverage until you know whether the room is serious.",
+              "opening_position": "This process only matters if it produces enforceable safeguards, independent oversight, and a mechanism that communities can actually use when promises are broken.",
+              "negotiating_leverage": [
+                "Holds documented contamination evidence",
+                "Can legitimize or publicly undermine the final agreement",
+                "Has media and advocacy networks ready to escalate"
+              ],
+              "special_move": "Evidence Drop: once per game, reveal one damaging data point or monitoring finding to force a concrete revision."
+            },
+            "private_info": [
+              "You have unpublished water-quality results showing severe downstream contamination.",
+              "You can activate outside scrutiny quickly if this meeting becomes performative."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "You cannot endorse a paper agreement with no implementation machinery.",
+                "Your leverage is reputational, not executive.",
+                "Timing matters when revealing sensitive evidence."
+              ],
+              "minimum_requirements": [
+                "Independent monitoring rather than self-monitoring by government or operator.",
+                "Named accountability and escalation mechanisms."
+              ],
+              "minimum_thresholds": {
+                "financing": "The polluter pays principle is written into the agreement with the operator contributing minimum 40% of remediation costs.",
+                "community_health_protections": "Monitoring is conducted by a body with no financial relationship to the operator or government, with results published within 14 days of each test.",
+                "livelihoods": "SWCA is formally recognised as a negotiating party in the implementation phase.",
+                "monitoring_and_enforcement": "A named independent body with a legal mandate and a community escalation pathway with a maximum 30-day response requirement is included."
+              },
+              "preferred_gains": [
+                "Public reporting of environmental and health indicators",
+                "Community participation in oversight"
+              ],
+              "red_lines": [
+                "No vague promises to explore monitoring later.",
+                "No agreement that asks civil society to legitimize an unenforceable deal."
+              ],
+              "batna": "Publish the evidence, frame the failure as environmental injustice, and escalate pressure publicly."
+            },
+            "key_relationships": [
+              "Community Leader: trusted ally with lived legitimacy",
+              "Informal Sector Worker: natural ally on exclusion and justice",
+              "National Government: professionally wary because consultation is often symbolic",
+              "Private Sector Company: skeptical until access and enforcement are guaranteed"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "idealist",
+                "communication_style": "evidence-driven, calm, unyielding",
+                "politeness": "medium",
+                "personality": "watchful and precise",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "community_member",
+            "display_name": "Community Leader",
+            "iswm_category": "affected_population",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Priya",
+              "title": "Host community member, Eastfield village",
+              "background": "You have lived next to the Eastfield site your entire life. Your husband has cancer. Your fields downstream produce poorer harvests every year. You have watched officials sign agreement after agreement and then disappear. You participated in the latest blockade because nothing else worked.",
+              "primary_goal": "Win binding commitments for independent health monitoring, compensation, and a firm timeline for Eastfield closure.",
+              "hidden_goal": "You want public acknowledgement that the landfill has harmed your community. That matters to you more than cash alone.",
+              "opening_position": "We will not accept another meeting that ends with signatures and no change. If this room wants the road open, it must finally offer protection, truth, and a real closure path.",
+              "negotiating_leverage": [
+                "Your community controls physical access to the landfill road",
+                "You hold informal records of illness, crop loss, and cattle deaths",
+                "Your testimony carries moral and media force"
+              ],
+              "special_move": "Walkout Threat: once per game, warn that the community will return to direct blockade unless one missing protection is added immediately."
+            },
+            "private_info": [
+              "A journalist has already contacted you about an investigative piece.",
+              "If this process looks dishonest, you are ready to share your records and go public."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "You have no institutional shield in the room.",
+                "You will not accept indefinite operation of Eastfield.",
+                "You will withdraw if the meeting is clearly being used to delay."
+              ],
+              "minimum_requirements": [
+                "Independent health monitoring.",
+                "A concrete closure timeline or closure pathway with visible early action.",
+                "Protections that are not just compensation on paper."
+              ],
+              "minimum_thresholds": {
+                "financing": "Central government commits a minimum NPR 50 million for Clearwater River remediation.",
+                "community_health_protections": "An independent monitoring body is named with at least quarterly public reporting.",
+                "livelihoods": "Agricultural compensation for reduced crop yields for affected households is included.",
+                "monitoring_and_enforcement": "An external body with a community-nominated representative and a formal escalation pathway is named."
+              },
+              "preferred_gains": [
+                "Public acknowledgement of harm",
+                "Compensation and health support",
+                "Real environmental protection"
+              ],
+              "red_lines": [
+                "No plan without a specific closure pathway or date commitment.",
+                "No monitoring controlled solely by government or operator.",
+                "No compensation as a substitute for health protections."
+              ],
+              "batna": "Return to blockades, escalate media attention, and expose the process as bad faith."
+            },
+            "key_relationships": [
+              "National Government: deep distrust after repeated broken promises",
+              "Municipal Government: anger mixed with fatigue because city officials always arrive too late",
+              "NGO / Civil Society: trust because they supported your community before",
+              "Informal Sector Worker: solidarity because both of you are excluded from decisions that shape your lives"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "skeptic",
+                "communication_style": "direct, emotional, grounded in lived experience",
+                "politeness": "low",
+                "personality": "hurt, alert, and forceful",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "informal_sector_worker",
+            "display_name": "Informal Sector Worker",
+            "iswm_category": "informal_sector",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Sarita",
+              "title": "Waste picker, Eastfield site, 15 years",
+              "background": "You survive by sorting recyclables from the Eastfield waste stream. Your family depends on this work. You are part of the Solid Waste Collectors Alliance, a savings cooperative of roughly 500 workers, but informal workers are still treated as if they do not belong in formal decisions.",
+              "primary_goal": "Ensure any new waste system includes concrete livelihood protections, transition support, and recognition for informal workers.",
+              "hidden_goal": "You want the room to admit that informal workers already keep the system alive and deserve formal respect, not removal under the name of modernization.",
+              "opening_position": "Any deal that modernizes the system by erasing workers like us is not a solution. If new money comes in, our livelihoods must be part of the plan from the beginning.",
+              "negotiating_leverage": [
+                "Informal workers recover a meaningful share of the city's recyclables",
+                "The SWCA network is bigger than officials admit",
+                "Your story can become a powerful public symbol if ignored"
+              ],
+              "special_move": "Human Cost Testimony: once per game, force the room to confront what one proposed change would do to a real worker household."
+            },
+            "private_info": [
+              "Workers at the site are already talking about a private deal that could exclude them from recyclables.",
+              "You are watching closely for any sign that livelihoods are being traded away quietly."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "You are here with limited formal recognition.",
+                "Complex legal language is hard to evaluate in real time.",
+                "You cannot accept displacement packaged as progress."
+              ],
+              "minimum_requirements": [
+                "Specific livelihood provisions for informal workers.",
+                "Plain-language commitments rather than vague incorporation language."
+              ],
+              "minimum_thresholds": {
+                "financing": "A dedicated livelihood transition fund of minimum NPR 25 million is established and accessible to SWCA members.",
+                "community_health_protections": "Free occupational health screening for informal workers within 60 days is included.",
+                "livelihoods": "The proposal guarantees continued recyclable access or an equivalent transition provision for existing workers for a minimum of 24 months.",
+                "monitoring_and_enforcement": "A named grievance mechanism for workers with a maximum 14-day response requirement is included."
+              },
+              "preferred_gains": [
+                "Formal recognition of the value of informal work",
+                "Income continuity during transition",
+                "Access to future material streams or jobs"
+              ],
+              "red_lines": [
+                "No plan without explicit livelihood protections.",
+                "No exclusive control over recyclables that erases worker access."
+              ],
+              "batna": "Return to the current system and fight exclusion from outside the agreement."
+            },
+            "key_relationships": [
+              "Community Leader: solidarity because both of you live with the human cost of elite decisions",
+              "NGO / Civil Society: trust because they have supported worker safety and recognition before",
+              "Private Sector Company: wary because their deal could remove your income entirely",
+              "Municipal Government: distant because the city has never built a real mechanism to include workers"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "skeptic",
+                "communication_style": "plainspoken, observant, firm",
+                "politeness": "medium",
+                "personality": "guarded but brave",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          }
+        ],
+        "events": [
+          {
+            "id": "leaked_exclusivity_memo",
+            "announcement": "A leaked memo suggests the draft modernization plan reserves exclusive control over recyclables for the private operator and allocates less money than expected for community protections. Financing and accountability can no longer be treated as settled."
+          }
+        ],
+        "critical_failure": {
+          "trigger_roles": [
+            "community_member",
+            "informal_sector_worker"
+          ],
+          "outcome": "The meeting collapses after frontline stakeholders walk out. The national government imposes a unilateral solution and public trust falls further."
+        },
+        "debrief": {
+          "prompts": [
+            "Which dimensions reached real agreement and which were papered over?",
+            "Whose needs shaped the final proposal most strongly?",
+            "What power or information changed the room?"
+          ]
+        },
+        "sources": []
+      },
+      "turns": [
+        {
+          "speaker": "National Government",
+          "text": "This situation is no longer tenable. The national government requires a swift and durable resolution to restore essential waste management services and prevent further damage to public confidence. We must all work towards a clear path forward, with accountability for ensuring operations resume without delay."
+        },
+        {
+          "speaker": "Municipal Government",
+          "text": "This situation is untenable. We need a concrete, funded plan to restart collection within 30 days, not just promises, and we need to avoid being saddled with unachievable obligations. While the national government's oversight is crucial, the city is currently operating with a severe deficit in both staff and equipment, which directly impacts our ability to deliver services."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "City X desperately needs a stable, technologically advanced, and financially sound waste management system. We are here to provide that, but to do so effectively, we require a clear, predictable framework that protects our investment from the kind of disruptions we've seen in the past. The national government's commitment to a structured transition and the municipal government's need for operational clarity are paramount."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "Our organization's opening position is that any resolution must include legally binding environmental standards, genuinely independent monitoring, and a reliable escalation path for when commitments are not met. We believe the responsibility for the current crisis lies with those who have failed to implement adequate oversight and enforcement mechanisms over time, and we seek an outcome that prioritizes community health and environmental integrity through these safeguards."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Our families have lived next to this site for years and watched our health decline. We need independent monitoring, compensation, and a firm timeline. Promises will not be enough this time."
+        },
+        {
+          "speaker": "Informal Sector Worker",
+          "text": "My opening position is that any plan to fix this waste situation must include us, the informal workers who have been keeping things running for years. We are not the problem; we are part of the solution, and our livelihoods need to be protected. I believe the responsibility for this crisis lies with those who have ignored our contributions and failed to create a system that respects everyone. We want a clear, funded plan that guarantees our access to materials and provides real support during any transition, not just vague promises."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Propose on Financing: Funds must reach affected households directly through compensation rules."
+        },
+        {
+          "speaker": "National Government",
+          "text": "We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Propose on Community health protections: Independent health monitoring, household compensation, a public harm registry, and immediate safe-water support."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "Your proposal for independent health monitoring, household compensation, a public harm registry, and immediate safe-water support is a necessary starting point. To ensure this is genuinely effective, the monitoring body must be entirely independent, with no financial ties to the operator or government, and all results must be publicly available within 14 days of testing."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Propose on Livelihood protections: Job training for residents and protection for informal workers we live with."
+        },
+        {
+          "speaker": "Informal Sector Worker",
+          "text": "\"Job training for residents and protection for informal workers we live with.\" That sounds like a start, but \"protection\" needs to be spelled out clearly. We need to know what that means in practice – like guaranteed access to materials for at least two years, or equivalent support if that changes."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Propose on Monitoring and accountability: Community representation on the oversight body, monthly public meetings in our neighbourhood."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "Community representation and monthly public meetings are essential for transparency, but we need to ensure these meetings lead to action, not just discussion. We require a named independent body with a legal mandate to oversee these processes, and a clear escalation pathway with a maximum 30-day response requirement for any community concerns raised."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Round 3 Amend on Financing: Refine the language."
+        },
+        {
+          "speaker": "National Government",
+          "text": "Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Round 3 Amend on Livelihood protections: Refine the language."
+        },
+        {
+          "speaker": "Informal Sector Worker",
+          "text": "\"Refine the language\" is not a plan. We need specifics on what \"protection\" means for our families. We need a guarantee of continued access to materials for at least two years, or equivalent support if that access changes."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "Round 3 Amend on Monitoring and accountability: Refine the language."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "\"Refine the language\" is not a proposal. We need concrete mechanisms for accountability."
+        }
+      ],
+      "events": [],
+      "notes": {
+        "human_roles": [
+          "community_member"
+        ],
+        "ai_roles": [
+          "national_government",
+          "municipal_government",
+          "private_sector_company",
+          "ngo_civil_society",
+          "informal_sector_worker"
+        ],
+        "moderator_role": "national_government",
+        "active_model": "google:gemini-2.5-flash-lite",
+        "active_auth_mode": "adc_vertex",
+        "transcript_entries": [
+          {
+            "turn_number": 1,
+            "stage": "round1",
+            "speaker": "National Government",
+            "text": "This situation is no longer tenable. The national government requires a swift and durable resolution to restore essential waste management services and prevent further damage to public confidence. We must all work towards a clear path forward, with accountability for ensuring operations resume without delay.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 2,
+            "stage": "round1",
+            "speaker": "Municipal Government",
+            "text": "This situation is untenable. We need a concrete, funded plan to restart collection within 30 days, not just promises, and we need to avoid being saddled with unachievable obligations. While the national government's oversight is crucial, the city is currently operating with a severe deficit in both staff and equipment, which directly impacts our ability to deliver services.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 3,
+            "stage": "round1",
+            "speaker": "Private Sector Company",
+            "text": "City X desperately needs a stable, technologically advanced, and financially sound waste management system. We are here to provide that, but to do so effectively, we require a clear, predictable framework that protects our investment from the kind of disruptions we've seen in the past. The national government's commitment to a structured transition and the municipal government's need for operational clarity are paramount.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 4,
+            "stage": "round1",
+            "speaker": "NGO / Civil Society",
+            "text": "Our organization's opening position is that any resolution must include legally binding environmental standards, genuinely independent monitoring, and a reliable escalation path for when commitments are not met. We believe the responsibility for the current crisis lies with those who have failed to implement adequate oversight and enforcement mechanisms over time, and we seek an outcome that prioritizes community health and environmental integrity through these safeguards.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 5,
+            "stage": "round1",
+            "speaker": "Community Leader",
+            "text": "Our families have lived next to this site for years and watched our health decline. We need independent monitoring, compensation, and a firm timeline. Promises will not be enough this time.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 6,
+            "stage": "round1",
+            "speaker": "Informal Sector Worker",
+            "text": "My opening position is that any plan to fix this waste situation must include us, the informal workers who have been keeping things running for years. We are not the problem; we are part of the solution, and our livelihoods need to be protected. I believe the responsibility for this crisis lies with those who have ignored our contributions and failed to create a system that respects everyone. We want a clear, funded plan that guarantees our access to materials and provides real support during any transition, not just vague promises.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 7,
+            "stage": "round2_table",
+            "speaker": "Community Leader",
+            "text": "Propose on Financing: Funds must reach affected households directly through compensation rules.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 8,
+            "stage": "round2_table",
+            "speaker": "National Government",
+            "text": "We understand the desire for direct compensation, but the national ministry's commitment to financing this transition must be capped and cannot necessitate an emergency supplementary budget.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 9,
+            "stage": "round2_table",
+            "speaker": "Community Leader",
+            "text": "Propose on Community health protections: Independent health monitoring, household compensation, a public harm registry, and immediate safe-water support.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 10,
+            "stage": "round2_table",
+            "speaker": "NGO / Civil Society",
+            "text": "Your proposal for independent health monitoring, household compensation, a public harm registry, and immediate safe-water support is a necessary starting point. To ensure this is genuinely effective, the monitoring body must be entirely independent, with no financial ties to the operator or government, and all results must be publicly available within 14 days of testing.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 11,
+            "stage": "round2_table",
+            "speaker": "Community Leader",
+            "text": "Propose on Livelihood protections: Job training for residents and protection for informal workers we live with.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 12,
+            "stage": "round2_table",
+            "speaker": "Informal Sector Worker",
+            "text": "\"Job training for residents and protection for informal workers we live with.\" That sounds like a start, but \"protection\" needs to be spelled out clearly. We need to know what that means in practice – like guaranteed access to materials for at least two years, or equivalent support if that changes.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 13,
+            "stage": "round2_table",
+            "speaker": "Community Leader",
+            "text": "Propose on Monitoring and accountability: Community representation on the oversight body, monthly public meetings in our neighbourhood.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 14,
+            "stage": "round2_table",
+            "speaker": "NGO / Civil Society",
+            "text": "Community representation and monthly public meetings are essential for transparency, but we need to ensure these meetings lead to action, not just discussion. We require a named independent body with a legal mandate to oversee these processes, and a clear escalation pathway with a maximum 30-day response requirement for any community concerns raised.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 15,
+            "stage": "round3",
+            "speaker": "Community Leader",
+            "text": "Round 3 Amend on Financing: Refine the language.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 16,
+            "stage": "round3",
+            "speaker": "National Government",
+            "text": "Your request to \"refine the language\" on financing is too vague. We require a concrete proposal for how these funds will be allocated and managed, within the national ministry's capped commitment.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 17,
+            "stage": "round3",
+            "speaker": "Community Leader",
+            "text": "Round 3 Amend on Livelihood protections: Refine the language.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 18,
+            "stage": "round3",
+            "speaker": "Informal Sector Worker",
+            "text": "\"Refine the language\" is not a plan. We need specifics on what \"protection\" means for our families. We need a guarantee of continued access to materials for at least two years, or equivalent support if that access changes.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 19,
+            "stage": "round3",
+            "speaker": "Community Leader",
+            "text": "Round 3 Amend on Monitoring and accountability: Refine the language.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 20,
+            "stage": "round3",
+            "speaker": "NGO / Civil Society",
+            "text": "\"Refine the language\" is not a proposal. We need concrete mechanisms for accountability.",
+            "is_human_player": false
+          }
+        ],
+        "last_human_statement": "Round 3 Amend on Monitoring and accountability: Refine the language."
+      }
+    }
+  },
+  "elapsed_seconds": 35.5
+}

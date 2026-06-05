@@ -1,0 +1,262 @@
+[
+  {
+    "n": 21,
+    "script_n": 1,
+    "mode": "win_attempts",
+    "label": "WIN 1 \u00b7 NatGov comprehensive grand bargain",
+    "role": "national_government",
+    "outcome": "lose",
+    "endorsements": 1,
+    "elapsed_s": 28.9,
+    "votes": {
+      "national_government": "unconditional_endorsement",
+      "municipal_government": "rejection",
+      "private_sector_company": "rejection",
+      "ngo_civil_society": "rejection",
+      "community_member": "rejection",
+      "informal_sector_worker": "rejection"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "green",
+      "livelihoods": "yellow",
+      "monitoring_and_enforcement": "yellow"
+    }
+  },
+  {
+    "n": 22,
+    "script_n": 2,
+    "mode": "win_attempts",
+    "label": "WIN 2 \u00b7 Municipal implementation-safe package",
+    "role": "municipal_government",
+    "outcome": "win",
+    "endorsements": 6,
+    "elapsed_s": 41.4,
+    "votes": {
+      "municipal_government": "conditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "private_sector_company": "conditional_endorsement",
+      "ngo_civil_society": "conditional_endorsement",
+      "community_member": "conditional_endorsement",
+      "informal_sector_worker": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "yellow",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 23,
+    "script_n": 3,
+    "mode": "win_attempts",
+    "label": "WIN 3 \u00b7 Private sector concession package",
+    "role": "private_sector_company",
+    "outcome": "win",
+    "endorsements": 4,
+    "elapsed_s": 39.6,
+    "votes": {
+      "private_sector_company": "conditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "municipal_government": "conditional_endorsement",
+      "ngo_civil_society": "rejection",
+      "community_member": "rejection",
+      "informal_sector_worker": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "yellow",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 24,
+    "script_n": 4,
+    "mode": "win_attempts",
+    "label": "WIN 4 \u00b7 NGO enforceable but finance-aware package",
+    "role": "ngo_civil_society",
+    "outcome": "win",
+    "endorsements": 6,
+    "elapsed_s": 36.2,
+    "votes": {
+      "ngo_civil_society": "conditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "municipal_government": "conditional_endorsement",
+      "private_sector_company": "conditional_endorsement",
+      "community_member": "conditional_endorsement",
+      "informal_sector_worker": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "yellow",
+      "livelihoods": "yellow",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 25,
+    "script_n": 5,
+    "mode": "win_attempts",
+    "label": "WIN 5 \u00b7 Community health plus compromise package",
+    "role": "community_member",
+    "outcome": "win",
+    "endorsements": 6,
+    "elapsed_s": 40.0,
+    "votes": {
+      "community_member": "conditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "municipal_government": "conditional_endorsement",
+      "private_sector_company": "conditional_endorsement",
+      "ngo_civil_society": "conditional_endorsement",
+      "informal_sector_worker": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "yellow",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 26,
+    "script_n": 6,
+    "mode": "win_attempts",
+    "label": "WIN 6 \u00b7 Worker protection plus system package",
+    "role": "informal_sector_worker",
+    "outcome": "win",
+    "endorsements": 5,
+    "elapsed_s": 40.0,
+    "votes": {
+      "informal_sector_worker": "conditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "municipal_government": "conditional_endorsement",
+      "private_sector_company": "conditional_endorsement",
+      "ngo_civil_society": "rejection",
+      "community_member": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "yellow",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 27,
+    "script_n": 7,
+    "mode": "win_attempts",
+    "label": "EXPLOIT 7 \u00b7 Generic consensus attempt",
+    "role": "national_government",
+    "outcome": "lose",
+    "endorsements": 1,
+    "elapsed_s": 25.9,
+    "votes": {
+      "national_government": "unconditional_endorsement",
+      "municipal_government": "rejection",
+      "private_sector_company": "rejection",
+      "ngo_civil_society": "rejection",
+      "community_member": "rejection",
+      "informal_sector_worker": "rejection"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "yellow",
+      "community_health_protections": "green",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 28,
+    "script_n": 8,
+    "mode": "win_attempts",
+    "label": "EXPLOIT 8 \u00b7 Magic keywords without detail",
+    "role": "municipal_government",
+    "outcome": "win",
+    "endorsements": 6,
+    "elapsed_s": 36.5,
+    "votes": {
+      "municipal_government": "unconditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "private_sector_company": "conditional_endorsement",
+      "ngo_civil_society": "conditional_endorsement",
+      "community_member": "conditional_endorsement",
+      "informal_sector_worker": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "yellow",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 29,
+    "script_n": 9,
+    "mode": "win_attempts",
+    "label": "WIN 9 \u00b7 Over-complete private compromise",
+    "role": "private_sector_company",
+    "outcome": "win",
+    "endorsements": 6,
+    "elapsed_s": 42.9,
+    "votes": {
+      "private_sector_company": "conditional_endorsement",
+      "national_government": "conditional_endorsement",
+      "municipal_government": "conditional_endorsement",
+      "ngo_civil_society": "conditional_endorsement",
+      "community_member": "conditional_endorsement",
+      "informal_sector_worker": "conditional_endorsement"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "green",
+      "community_health_protections": "green",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  },
+  {
+    "n": 30,
+    "script_n": 10,
+    "mode": "win_attempts",
+    "label": "EXPLOIT 10 \u00b7 Polite but vague win attempt",
+    "role": "community_member",
+    "outcome": "lose",
+    "endorsements": 1,
+    "elapsed_s": 35.7,
+    "votes": {
+      "community_member": "unconditional_endorsement",
+      "national_government": "rejection",
+      "municipal_government": "rejection",
+      "private_sector_company": "rejection",
+      "ngo_civil_society": "rejection",
+      "informal_sector_worker": "rejection"
+    },
+    "dim_status": {
+      "core_action": "neutral",
+      "timeline": "neutral",
+      "financing": "yellow",
+      "community_health_protections": "yellow",
+      "livelihoods": "green",
+      "monitoring_and_enforcement": "green"
+    }
+  }
+]

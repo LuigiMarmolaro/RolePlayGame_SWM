@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+
+# Secrets and cloud credentials
+.env
+.env.*
+keys/
+**/keys/
+*.pem
+*.key
+*service-account*.json
+*credentials*.json
+
+# Local SDKs and generated artifacts
+google-cloud-sdk/
+dist/
+build/
+*.egg-info/
+
+# Optional generated media / large outputs
+outputs/
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.ogg

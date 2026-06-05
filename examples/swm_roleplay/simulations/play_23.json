@@ -1,0 +1,1589 @@
+{
+  "label": "WIN 3 · Private sector concession package",
+  "role": "private_sector_company",
+  "human_role_name": "Private Sector Company",
+  "outcome": "win",
+  "endorsements": 4,
+  "detail": "Proposal passed.",
+  "proposal": {
+    "core_action": "Eastfield landfill begins formal operational transition within 18 months.",
+    "timeline": "At least one concrete action begins within 30 days of any agreement.",
+    "financing": "A central package of NPR 50M for remediation, NPR 25M for the SWCA fund, and NPR 5M for clinics is proposed. The operator would contribute a capped one-time 40% share of remediation costs. Free land title and permits are to be provided, with no new KMC budget commitment beyond current allocations. This is conditional on clear delineation of ongoing operational oversight responsibilities separate from remediation efforts.",
+    "community_health_protections": "Establish the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch, independent of operator or government funding. The Commission will provide quarterly public health and water reports, publishing test results within 14 days, and offer free occupational screening for informal workers within 60 days. Safe water will be supplied immediately. Compensation will operate on a no-fault basis, with specific clarification required regarding the administration and coverage of agricultural compensation. This provision is conditional on a clear mechanism for agricultural compensation.",
+    "livelihoods": "Livelihood protections include formal recognition of SWCA as a negotiating party, guaranteed recyclable access or equivalent paid sorting contracts for existing informal workers for 24 months, and access to the NPR 25M transition fund. A named worker grievance mechanism with a 14-day response deadline is also proposed. These protections are to be implemented by KMC, with clarification sought on the specific funding source for the NPR 25M fund and the accessibility of these funds to SWCA members.",
+    "monitoring_and_enforcement": "The Eastfield Independent Oversight Board will be established with representatives from City X University, Valley Environment Watch, the community, SWCA, and KMC coordination. It will include a 30-day community escalation pathway and a 14-day worker grievance link. The board can publish findings and recommend penalties, but any operational halt requires 30 days' written notice and national ministerial sign-off. Operational directives to KMC also require 30 days' written notice, a condition which the NGO finds significantly weakens the board's effectiveness and ability to act decisively."
+  },
+  "dim_status": {
+    "core_action": "neutral",
+    "timeline": "neutral",
+    "financing": "green",
+    "community_health_protections": "yellow",
+    "livelihoods": "green",
+    "monitoring_and_enforcement": "green"
+  },
+  "final_votes": {
+    "private_sector_company": {
+      "vote": "conditional_endorsement",
+      "reason": "Player-selected vote."
+    },
+    "national_government": {
+      "vote": "conditional_endorsement",
+      "reason": "The proposal addresses the critical need to restart operations swiftly and offers a politically defensible path forward. The financing package is within acceptable national limits, and the community health protections, particularly the establishment of the Independent Health and Water Commission with independent administration, align with our requirements, especially regarding the absence of national liability for pre-2025 environmental damage. Livelihood protections, while generally aligned, require clarification on the specific funding source for the transition fund and its accessibility to SWCA members. The monitoring and accountability section, while establishing a robust oversight board, requires a critical adjustment: the requirement for national ministerial sign-off on any operational halt is a necessary safeguard to prevent undue disruption and maintain national oversight, thus meeting our threshold. However, the 30-day notice for operational directives to KMC, as noted by the NGO, significantly weakens the board's effectiveness and needs to be addressed to ensure timely and decisive action. The agricultural compensation mechanism also requires further clarification to be fully met."
+    },
+    "municipal_government": {
+      "vote": "conditional_endorsement",
+      "reason": "The proposal addresses the core action of transitioning the Eastfield landfill within 18 months and includes concrete actions within 30 days. However, the funding for the NPR 25M SWCA fund and the accessibility of these funds to SWCA members require clarification. Additionally, while the community health protections establish an independent commission, the mechanism for agricultural compensation needs specific clarification. The financing proposal meets the hidden threshold of no additional municipal budget commitment beyond current allocations. The community health protection threshold is met as KMC is assigned a coordination role. The livelihood protection threshold is met as KMC carries no direct financial obligation for the transition fund. The monitoring and accountability threshold is met as the oversight body cannot issue operational directives to KMC without 30 days written notice. Therefore, conditional endorsement is given pending clarification on the SWCA fund and agricultural compensation."
+    },
+    "ngo_civil_society": {
+      "vote": "rejection",
+      "reason": "The proposal crosses red lines by not providing a credible escalation path for the Independent Oversight Board, as the 30-day notice for operational directives to KMC significantly weakens its effectiveness. Furthermore, while the polluter pays principle is mentioned with the operator contributing 40% of remediation costs, the 'capped' nature of this contribution is concerning. The community health protections require clarification on the administration and coverage of agricultural compensation, and the financing for the SWCA transition fund needs to be clearly defined and accessible. The livelihood protections, while including formal recognition of SWCA, lack certainty regarding the accessibility of the transition fund. Therefore, multiple hidden thresholds are missing or inadequately addressed, and a red line has been crossed regarding enforcement."
+    },
+    "community_member": {
+      "vote": "rejection",
+      "reason": "My red line of 'no plan without a specific closure pathway or date commitment' is crossed. While the proposal mentions an 'operational transition' within 18 months, there is no concrete closure timeline or pathway with visible early action. The 'Eastfield Independent Oversight Board' is also weakened by the 30-day notice requirement for operational halts and directives, which is unacceptable. Furthermore, my hidden minimum threshold for 'community_health_protections' is only partially met; while an independent monitoring body is named, the quarterly public reporting and immediate safe water supply are conditional on 'clear clarification' which is not guaranteed. The lack of a clear mechanism for agricultural compensation also fails to meet my 'livelihoods' threshold."
+    },
+    "informal_sector_worker": {
+      "vote": "conditional_endorsement",
+      "reason": "The proposal meets several key thresholds, including the NPR 25 million fund, occupational screening within 60 days, and 24 months of guaranteed access or equivalent contracts. The grievance mechanism with a 14-day response is also present. However, the specific funding source for the NPR 25M fund and its accessibility to SWCA members require clarification, which is a repairable detail."
+    }
+  },
+  "goal_evals": {
+    "national_government": {
+      "rating": "partially_achieved",
+      "explanation": "The proposal partially meets the National Government's thresholds, particularly regarding financing and livelihood protections which are centrally funded, but the community health protections remain conditional on clarification of agricultural compensation, and the monitoring and accountability clause grants the national ministry final sign-off on operational halts, aligning with the hidden threshold."
+    },
+    "municipal_government": {
+      "rating": "partially_achieved",
+      "explanation": "The proposal partially meets the Municipal Government's hidden thresholds by ensuring no additional budget commitment is required and assigning a coordination role for community health protections, but the funding source for the livelihood transition fund remains unclear."
+    },
+    "private_sector_company": {
+      "rating": "partially_achieved",
+      "explanation": "The proposal partially meets the minimum thresholds by excluding the company from liability for pre-contract environmental conditions and capping transition obligations, but the financing threshold remains conditional on free land title and permits, and the monitoring and accountability threshold requires clarification on operational halt procedures."
+    },
+    "ngo_civil_society": {
+      "rating": "not_achieved",
+      "explanation": "The proposal partially meets the NGO's hidden thresholds by establishing an independent commission for health and water reporting and formally recognizing SWCA as a negotiating party, but it falls short on the operator's financial contribution for remediation and the independent body's power to halt operations without national ministerial sign-off."
+    },
+    "community_member": {
+      "rating": "not_achieved",
+      "explanation": "The proposal partially meets the Community Leader's thresholds by establishing an independent monitoring body with quarterly public reporting and dedicating NPR 50 million for remediation, but the specific mechanism for agricultural compensation remains unclear."
+    },
+    "informal_sector_worker": {
+      "rating": "partially_achieved",
+      "explanation": "The proposal partially meets the thresholds by establishing a dedicated SWCA fund and including occupational health screenings, but the accessibility of the fund and the specifics of agricultural compensation require further clarification."
+    }
+  },
+  "turns": [
+    {
+      "speaker": "National Government",
+      "text": "This situation has become an unacceptable national embarrassment, and we must restart waste operations immediately. My opening position is that we need a swift, implementable resolution that ensures stability and prevents further disruption to essential services. We are here to find a way forward that serves the public interest and protects the government's credibility."
+    },
+    {
+      "speaker": "Municipal Government",
+      "text": "Our city's waste management system is on the verge of collapse, and we need concrete actions, not just discussions. We require a clear, funded plan that acknowledges our operational realities and the immediate need to restart collections safely and efficiently. The national government's delayed support has put us in this difficult position, and we seek a partnership that provides the necessary resources to address this crisis and prevent future disruptions."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "We can concede recyclable exclusivity if the operating framework is stable: permits, land title, capped liability, a one-time remediation contribution, and monitoring that cannot suspend operations without due process."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "My opening position is that any resolution must include legally binding environmental standards, truly independent oversight, and a reliable escalation process for when commitments are not met. We need a system that ensures accountability and protects the health of our communities. I believe the operator bears significant responsibility for the current contamination, and we seek a comprehensive remediation plan with transparent, ongoing monitoring and a clear path for community recourse."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "We are here for concrete action, not more empty promises. My opening position is that we need binding commitments for independent health monitoring, compensation for our losses, and a firm timeline for Eastfield's closure. This landfill has harmed our community, and we demand acknowledgement and real remediation, not just more talk."
+    },
+    {
+      "speaker": "Informal Sector Worker",
+      "text": "My opening position is that any plan to fix this waste mess must put the livelihoods of the people who actually do the work first. We've been keeping this place running for years, and we deserve to be part of the solution, not swept aside. This crisis is on everyone who let it get this bad, but especially those who ignored our work. We want recognition, protection for our jobs, and a real say in how things move forward."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Propose on Financing: Create a capped central package inside the existing national waste budget: NPR 50M for Clearwater River remediation, NPR 25M for a SWCA-accessible livelihood transition fund, and NPR 5M for clinics and testing. The operator contributes 40% of remediation costs through a capped one-time contribution, while government provides land title and operating permits at no cost to the company. KMC makes no new budget commitment beyond current waste allocations, and all spending is released quarterly after public audits."
+    },
+    {
+      "speaker": "National Government",
+      "text": "The proposed central package is a reasonable starting point, and the operator's contribution is noted. However, the national ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Propose on Community health protections: Name the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch with no financial relationship to the operator or government. It provides quarterly public health and water reports, publishes test results within 14 days, offers free occupational screening for informal workers within 60 days, supplies safe water immediately, and uses no-fault compensation without assigning legal liability for pre-2025 damage to the ministry, KMC, or the operator."
+    },
+    {
+      "speaker": "Community Leader",
+      "text": "This sounds like a step in the right direction, but the \"no-fault compensation\" part needs more clarity on how it will actually be administered and what it covers. We need a specific mechanism for agricultural compensation, not just a general statement."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Propose on Livelihood protections: Formally recognize SWCA as an implementation negotiating party. Existing informal workers receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, training, crop-yield compensation for affected households, and a named worker grievance mechanism with a 14-day response deadline. Implementation is delegated to KMC, but KMC carries no direct financial obligation."
+    },
+    {
+      "speaker": "Informal Sector Worker",
+      "text": "The proposal for SWCA recognition and a 24-month contract sounds like a start, but it says KMC carries no direct financial obligation. We need to know who is actually footing the bill for these protections."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Propose on Monitoring and accountability: Create the Eastfield Independent Oversight Board with City X University, Valley Environment Watch, one community-nominated representative, one SWCA representative, KMC coordination, and a public escalation pathway with a 30-day response deadline. The board can publish findings and recommend penalties, but cannot halt company operations without 30 days written notice plus national ministerial sign-off, and cannot issue operational directives to KMC without 30 days written notice."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "The proposed oversight board structure is a step in the right direction, but the limitations on halting operations and issuing directives weaken its independence and effectiveness. We need a board with the authority to act decisively when environmental standards are breached, not just recommend."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Round 3 Amend on Financing: Clarify the money: NPR 50M central remediation, NPR 25M SWCA fund, NPR 5M clinics, operator 40% capped one-time remediation share, no new KMC budget, and free land title and permits for the company."
+    },
+    {
+      "speaker": "National Government",
+      "text": "The operator's capped one-time remediation contribution is acknowledged, and the provision of land title and permits is a constructive step. However, the National Ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts, to ensure long-term stability and accountability."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Round 3 Amend on Livelihood protections: Add SWCA recognition, 24 months of recyclable access or equivalent contracts, the NPR 25M fund accessible to SWCA members, and a 14-day worker grievance response rule."
+    },
+    {
+      "speaker": "Informal Sector Worker",
+      "text": "You've added SWCA recognition and the 24-month access, which is good, but the fund must be *accessible* to us, not just mentioned. We need to know *who* is putting the money in and *how* we can actually get it."
+    },
+    {
+      "speaker": "Private Sector Company",
+      "text": "Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt."
+    },
+    {
+      "speaker": "NGO / Civil Society",
+      "text": "The addition of the 30-day escalation pathway is noted, but the requirement for ministerial sign-off before any operational halt still severely curtails the board's ability to act. We need a mechanism that allows for immediate, albeit temporary, operational pauses when critical environmental breaches are identified, not one that can be indefinitely delayed by bureaucratic processes."
+    }
+  ],
+  "full_playthrough": {
+    "schema_version": "city_x_playthrough_v1",
+    "exported_at": "2026-05-25T10:56:21.724166+00:00",
+    "game_metadata": {
+      "app": "City X Negotiation Game",
+      "stage": "outcome",
+      "model": "google:gemini-2.5-flash-lite",
+      "auth_mode": "adc_vertex",
+      "currency_label": "anonymized",
+      "simple_english": false,
+      "human_role": "private_sector_company",
+      "human_role_name": "Private Sector Company"
+    },
+    "scenario": {
+      "title": "City X Emergency Waste Negotiation",
+      "summary": "A fictionalized low-income city crisis based on documented landfill conflict dynamics. Six stakeholders must negotiate an emergency waste action plan within 60 days.",
+      "deadline_days": 60,
+      "if_no_agreement": "The national government will impose a unilateral solution."
+    },
+    "stakeholders": [
+      {
+        "role_id": "national_government",
+        "display_name": "National Government",
+        "name": "Minister Karki",
+        "title": "Ministry of Urban Development",
+        "primary_goal": "Reach a politically viable agreement within 60 days that restores operations and avoids another public failure.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "municipal_government",
+        "display_name": "Municipal Government",
+        "name": "Rajesh",
+        "title": "Director, Environment and Infrastructure, City X Metropolitan",
+        "primary_goal": "Secure a practical operating plan that restarts collection, reduces blockade risk, and does not leave the city holding impossible obligations.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "private_sector_company",
+        "display_name": "Private Sector Company",
+        "name": "Anil",
+        "title": "Chief Development Officer, ValleyWaste Solutions Pvt. Ltd.",
+        "primary_goal": "Secure political endorsement for an integrated waste-management transition with a clear path toward a formal operating agreement.",
+        "is_human_player": true
+      },
+      {
+        "role_id": "ngo_civil_society",
+        "display_name": "NGO / Civil Society",
+        "name": "Meera",
+        "title": "Director, Valley Environment Watch",
+        "primary_goal": "Secure binding environmental standards, genuinely independent monitoring, and a credible escalation path if commitments fail.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "community_member",
+        "display_name": "Community Leader",
+        "name": "Priya",
+        "title": "Host community member, Eastfield village",
+        "primary_goal": "Win binding commitments for independent health monitoring, compensation, and a firm timeline for Eastfield closure.",
+        "is_human_player": false
+      },
+      {
+        "role_id": "informal_sector_worker",
+        "display_name": "Informal Sector Worker",
+        "name": "Sarita",
+        "title": "Waste picker, Eastfield site, 15 years",
+        "primary_goal": "Ensure any new waste system includes concrete livelihood protections, transition support, and recognition for informal workers.",
+        "is_human_player": false
+      }
+    ],
+    "round_1": {
+      "opening_order": [
+        "national_government",
+        "municipal_government",
+        "private_sector_company",
+        "ngo_civil_society",
+        "community_member",
+        "informal_sector_worker"
+      ],
+      "moderator_summary": ""
+    },
+    "round_2": {
+      "human_priority_bid": {
+        "dimension": "financing",
+        "dimensions": [
+          "financing",
+          "monitoring_and_enforcement",
+          "livelihoods"
+        ],
+        "reason": "as written above",
+        "text": "My priorities are Financing, Monitoring and accountability, Livelihood protections because they are the heart of my role."
+      },
+      "ai_priority_bids": {
+        "national_government": "My priority is the swift resumption of waste operations, and I require clear commitments on national financing caps and robust, nationally-approved enforcement mechanisms.",
+        "municipal_government": "My priority is securing a practical operating plan that restarts collection and reduces blockade risk, with a clear division of responsibilities and a realistic path to the Hillside transition.",
+        "ngo_civil_society": "My priority is to establish genuinely independent monitoring with clear, binding accountability mechanisms and a defined, timely escalation path for any breaches.",
+        "community_member": "We need a binding agreement for independent health monitoring, with quarterly public reports, and a clear, actionable timeline for Eastfield's closure, starting now.",
+        "informal_sector_worker": "My priority is clear: any new system must guarantee continued access to recyclables or equivalent transition support for at least 24 months, with a dedicated livelihood fund of 25 million rupees."
+      },
+      "dimension_discussions": {
+        "financing": [
+          {
+            "entry_number": 1,
+            "speaker": "Private Sector Company",
+            "text": "Propose on Financing: Create a capped central package inside the existing national waste budget: NPR 50M for Clearwater River remediation, NPR 25M for a SWCA-accessible livelihood transition fund, and NPR 5M for clinics and testing. The operator contributes 40% of remediation costs through a capped one-time contribution, while government provides land title and operating permits at no cost to the company. KMC makes no new budget commitment beyond current waste allocations, and all spending is released quarterly after public audits."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "National Government",
+            "text": "The proposed central package is a reasonable starting point, and the operator's contribution is noted. However, the national ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts."
+          },
+          {
+            "entry_number": 3,
+            "speaker": "Private Sector Company",
+            "text": "Round 3 Amend on Financing: Clarify the money: NPR 50M central remediation, NPR 25M SWCA fund, NPR 5M clinics, operator 40% capped one-time remediation share, no new KMC budget, and free land title and permits for the company."
+          },
+          {
+            "entry_number": 4,
+            "speaker": "National Government",
+            "text": "The operator's capped one-time remediation contribution is acknowledged, and the provision of land title and permits is a constructive step. However, the National Ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts, to ensure long-term stability and accountability."
+          }
+        ],
+        "community_health_protections": [
+          {
+            "entry_number": 1,
+            "speaker": "Private Sector Company",
+            "text": "Propose on Community health protections: Name the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch with no financial relationship to the operator or government. It provides quarterly public health and water reports, publishes test results within 14 days, offers free occupational screening for informal workers within 60 days, supplies safe water immediately, and uses no-fault compensation without assigning legal liability for pre-2025 damage to the ministry, KMC, or the operator."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "Community Leader",
+            "text": "This sounds like a step in the right direction, but the \"no-fault compensation\" part needs more clarity on how it will actually be administered and what it covers. We need a specific mechanism for agricultural compensation, not just a general statement."
+          }
+        ],
+        "livelihoods": [
+          {
+            "entry_number": 1,
+            "speaker": "Private Sector Company",
+            "text": "Propose on Livelihood protections: Formally recognize SWCA as an implementation negotiating party. Existing informal workers receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, training, crop-yield compensation for affected households, and a named worker grievance mechanism with a 14-day response deadline. Implementation is delegated to KMC, but KMC carries no direct financial obligation."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "Informal Sector Worker",
+            "text": "The proposal for SWCA recognition and a 24-month contract sounds like a start, but it says KMC carries no direct financial obligation. We need to know who is actually footing the bill for these protections."
+          },
+          {
+            "entry_number": 3,
+            "speaker": "Private Sector Company",
+            "text": "Round 3 Amend on Livelihood protections: Add SWCA recognition, 24 months of recyclable access or equivalent contracts, the NPR 25M fund accessible to SWCA members, and a 14-day worker grievance response rule."
+          },
+          {
+            "entry_number": 4,
+            "speaker": "Informal Sector Worker",
+            "text": "You've added SWCA recognition and the 24-month access, which is good, but the fund must be *accessible* to us, not just mentioned. We need to know *who* is putting the money in and *how* we can actually get it."
+          }
+        ],
+        "monitoring_and_enforcement": [
+          {
+            "entry_number": 1,
+            "speaker": "Private Sector Company",
+            "text": "Propose on Monitoring and accountability: Create the Eastfield Independent Oversight Board with City X University, Valley Environment Watch, one community-nominated representative, one SWCA representative, KMC coordination, and a public escalation pathway with a 30-day response deadline. The board can publish findings and recommend penalties, but cannot halt company operations without 30 days written notice plus national ministerial sign-off, and cannot issue operational directives to KMC without 30 days written notice."
+          },
+          {
+            "entry_number": 2,
+            "speaker": "NGO / Civil Society",
+            "text": "The proposed oversight board structure is a step in the right direction, but the limitations on halting operations and issuing directives weaken its independence and effectiveness. We need a board with the authority to act decisively when environmental standards are breached, not just recommend."
+          },
+          {
+            "entry_number": 3,
+            "speaker": "Private Sector Company",
+            "text": "Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt."
+          },
+          {
+            "entry_number": 4,
+            "speaker": "NGO / Civil Society",
+            "text": "The addition of the 30-day escalation pathway is noted, but the requirement for ministerial sign-off before any operational halt still severely curtails the board's ability to act. We need a mechanism that allows for immediate, albeit temporary, operational pauses when critical environmental breaches are identified, not one that can be indefinitely delayed by bureaucratic processes."
+          }
+        ]
+      },
+      "dimension_flags": {
+        "financing": {
+          "status": "yellow",
+          "summary": "Remaining conditions: Private Sector Company: Player-selected position. | National Government: The national commitment is capped and does not require a supplementary budget, which meets our minimum requirements. However, the operator's contribution needs further clarification on the exact mechanism and timeline for their 40% remediation cost.",
+          "flags": {
+            "private_sector_company": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The national commitment is capped and does not require a supplementary budget, which meets our minimum requirements. However, the operator's contribution needs further clarification on the exact mechanism and timeline for their 40% remediation cost."
+            },
+            "municipal_government": {
+              "flag": "accept_with_condition",
+              "reason": "The proposed NPR 50M for remediation is acceptable, but the operator's 40% contribution needs a clear, capped monetary figure, not just a percentage. The national government must also explicitly guarantee the land title and operating permits at no cost."
+            },
+            "ngo_civil_society": {
+              "flag": "accept_with_condition",
+              "reason": "The operator's contribution is capped, and the government's commitment is not clearly defined beyond existing waste allocations. We need a clearer commitment for ongoing operational oversight costs."
+            },
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "The NPR 50M for Clearwater River remediation is present, but the operator's 40% contribution is capped and the government's in-kind contribution needs clearer delineation of responsibility. The NPR 25M livelihood fund needs a clearer funding source and implementation timeline."
+            },
+            "informal_sector_worker": {
+              "flag": "accept_with_condition",
+              "reason": "The NPR 25 million for the SWCA-accessible livelihood transition fund is present, but the source of KMC's funding for the worker protections requires clarification."
+            }
+          }
+        },
+        "community_health_protections": {
+          "status": "yellow",
+          "summary": "Remaining conditions: Private Sector Company: Player-selected position. | National Government: The establishment of the Eastfield Independent Health and Water Commission and immediate supply of safe water are positive steps. However, the administration and coverage of agricultural compensation require specific clarification to ensure no open-ended national liability.",
+          "flags": {
+            "private_sector_company": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The establishment of the Eastfield Independent Health and Water Commission and immediate supply of safe water are positive steps. However, the administration and coverage of agricultural compensation require specific clarification to ensure no open-ended national liability."
+            },
+            "municipal_government": {
+              "flag": "accept_with_condition",
+              "reason": "The establishment of the Eastfield Independent Health and Water Commission is a positive step, but the 'no-fault basis' for compensation needs specific details on administration and coverage, especially for agricultural compensation. Safe water supply needs a defined timeline for commencement."
+            },
+            "ngo_civil_society": {
+              "flag": "accept_with_condition",
+              "reason": "The proposal for agricultural compensation requires specific clarification regarding administration and coverage."
+            },
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "The establishment of the Eastfield Independent Health and Water Commission is positive, but the mechanism for agricultural compensation needs specific clarification and a guaranteed funding source, not just a vague 'provision'."
+            },
+            "informal_sector_worker": {
+              "flag": "accept",
+              "reason": "Free occupational screening for informal workers within 60 days is included, and test results will be published within 14 days."
+            }
+          }
+        },
+        "livelihoods": {
+          "status": "red",
+          "summary": "Main objections: Municipal Government: The proposal delegates implementation of livelihood protections to KMC without clarifying the source of funding for the 24-month guaranteed recyclable access or equivalent paid sorting contracts, which represents an unfunded mandate.",
+          "flags": {
+            "private_sector_company": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "accept_with_condition",
+              "reason": "The recognition of SWCA and the proposed transition fund are acceptable. However, the source of funding for the 24-month guaranteed recyclable access or equivalent paid sorting contracts needs to be explicitly defined and confirmed as centrally funded, with implementation delegated to KMC."
+            },
+            "municipal_government": {
+              "flag": "reject",
+              "reason": "The proposal delegates implementation of livelihood protections to KMC without clarifying the source of funding for the 24-month guaranteed recyclable access or equivalent paid sorting contracts, which represents an unfunded mandate."
+            },
+            "ngo_civil_society": {
+              "flag": "accept_with_condition",
+              "reason": "While SWCA is recognized, the funding source for the livelihood protections needs clarification."
+            },
+            "community_member": {
+              "flag": "accept_with_condition",
+              "reason": "SWCA recognition and worker protections are good, but the source of funding for these protections, especially the 24-month paid sorting contracts, requires clarification. The grievance mechanism response deadline is acceptable."
+            },
+            "informal_sector_worker": {
+              "flag": "accept_with_condition",
+              "reason": "Existing informal workers are to receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, and a named worker grievance mechanism with a 14-day response deadline. However, the source of funding for these protections requires clarification."
+            }
+          }
+        },
+        "monitoring_and_enforcement": {
+          "status": "red",
+          "summary": "Main objections: National Government: The proposed limitations on the Oversight Board's authority to halt operations and issue directives without national ministerial sign-off fundamentally undermine its independence and effectiveness, creating a risk of future operational disruptions. This violates the principle that the national ministry retains ultimate oversight and control. | NGO / Civil Society: The limitations on the Oversight Board's authority to halt company operations and issue directives significantly weaken its independence and effectiveness, creating a red line violation.",
+          "flags": {
+            "private_sector_company": {
+              "flag": "accept_with_condition",
+              "reason": "Player-selected position."
+            },
+            "national_government": {
+              "flag": "reject",
+              "reason": "The proposed limitations on the Oversight Board's authority to halt operations and issue directives without national ministerial sign-off fundamentally undermine its independence and effectiveness, creating a risk of future operational disruptions. This violates the principle that the national ministry retains ultimate oversight and control."
+            },
+            "municipal_government": {
+              "flag": "accept_with_condition",
+              "reason": "The limitations on the Oversight Board's ability to halt company operations and issue directives to KMC without 30 days' written notice are acceptable, but the NGO/Civil Society's concerns about weakened independence need to be addressed by clarifying the specific triggers for these notices."
+            },
+            "ngo_civil_society": {
+              "flag": "reject",
+              "reason": "The limitations on the Oversight Board's authority to halt company operations and issue directives significantly weaken its independence and effectiveness, creating a red line violation."
+            },
+            "community_member": {
+              "flag": "reject",
+              "reason": "The authority of the Eastfield Independent Oversight Board to halt operations is contingent on ministerial sign-off after 30 days' notice, which is unacceptable. The board cannot issue operational directives without similar notice, rendering it ineffective. This violates the red line of no monitoring controlled solely by government."
+            },
+            "informal_sector_worker": {
+              "flag": "reject",
+              "reason": "The limitations on the Oversight Board's authority to halt company operations and issue operational directives weakens its independence and effectiveness, and there is no clear pathway for immediate action on worker grievances outside of this limited board."
+            }
+          }
+        }
+      },
+      "dimension_status": {
+        "core_action": "neutral",
+        "timeline": "neutral",
+        "financing": "green",
+        "community_health_protections": "yellow",
+        "livelihoods": "green",
+        "monitoring_and_enforcement": "green"
+      }
+    },
+    "round_3": {
+      "reopened_dimensions": [
+        "financing",
+        "livelihoods",
+        "monitoring_and_enforcement"
+      ],
+      "addressed_dimensions": [
+        "financing",
+        "livelihoods",
+        "monitoring_and_enforcement"
+      ]
+    },
+    "final_proposal": [
+      {
+        "dimension_id": "core_action",
+        "label": "Core action",
+        "text": "Eastfield landfill begins formal operational transition within 18 months.",
+        "status": "neutral"
+      },
+      {
+        "dimension_id": "timeline",
+        "label": "Timeline",
+        "text": "At least one concrete action begins within 30 days of any agreement.",
+        "status": "neutral"
+      },
+      {
+        "dimension_id": "financing",
+        "label": "Financing",
+        "text": "A central package of NPR 50M for remediation, NPR 25M for the SWCA fund, and NPR 5M for clinics is proposed. The operator would contribute a capped one-time 40% share of remediation costs. Free land title and permits are to be provided, with no new KMC budget commitment beyond current allocations. This is conditional on clear delineation of ongoing operational oversight responsibilities separate from remediation efforts.",
+        "status": "green"
+      },
+      {
+        "dimension_id": "community_health_protections",
+        "label": "Community health protections",
+        "text": "Establish the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch, independent of operator or government funding. The Commission will provide quarterly public health and water reports, publishing test results within 14 days, and offer free occupational screening for informal workers within 60 days. Safe water will be supplied immediately. Compensation will operate on a no-fault basis, with specific clarification required regarding the administration and coverage of agricultural compensation. This provision is conditional on a clear mechanism for agricultural compensation.",
+        "status": "yellow"
+      },
+      {
+        "dimension_id": "livelihoods",
+        "label": "Livelihood protections",
+        "text": "Livelihood protections include formal recognition of SWCA as a negotiating party, guaranteed recyclable access or equivalent paid sorting contracts for existing informal workers for 24 months, and access to the NPR 25M transition fund. A named worker grievance mechanism with a 14-day response deadline is also proposed. These protections are to be implemented by KMC, with clarification sought on the specific funding source for the NPR 25M fund and the accessibility of these funds to SWCA members.",
+        "status": "green"
+      },
+      {
+        "dimension_id": "monitoring_and_enforcement",
+        "label": "Monitoring and accountability",
+        "text": "The Eastfield Independent Oversight Board will be established with representatives from City X University, Valley Environment Watch, the community, SWCA, and KMC coordination. It will include a 30-day community escalation pathway and a 14-day worker grievance link. The board can publish findings and recommend penalties, but any operational halt requires 30 days' written notice and national ministerial sign-off. Operational directives to KMC also require 30 days' written notice, a condition which the NGO finds significantly weakens the board's effectiveness and ability to act decisively.",
+        "status": "green"
+      }
+    ],
+    "final_votes": {
+      "private_sector_company": {
+        "vote": "conditional_endorsement",
+        "reason": "Player-selected vote."
+      },
+      "national_government": {
+        "vote": "conditional_endorsement",
+        "reason": "The proposal addresses the critical need to restart operations swiftly and offers a politically defensible path forward. The financing package is within acceptable national limits, and the community health protections, particularly the establishment of the Independent Health and Water Commission with independent administration, align with our requirements, especially regarding the absence of national liability for pre-2025 environmental damage. Livelihood protections, while generally aligned, require clarification on the specific funding source for the transition fund and its accessibility to SWCA members. The monitoring and accountability section, while establishing a robust oversight board, requires a critical adjustment: the requirement for national ministerial sign-off on any operational halt is a necessary safeguard to prevent undue disruption and maintain national oversight, thus meeting our threshold. However, the 30-day notice for operational directives to KMC, as noted by the NGO, significantly weakens the board's effectiveness and needs to be addressed to ensure timely and decisive action. The agricultural compensation mechanism also requires further clarification to be fully met."
+      },
+      "municipal_government": {
+        "vote": "conditional_endorsement",
+        "reason": "The proposal addresses the core action of transitioning the Eastfield landfill within 18 months and includes concrete actions within 30 days. However, the funding for the NPR 25M SWCA fund and the accessibility of these funds to SWCA members require clarification. Additionally, while the community health protections establish an independent commission, the mechanism for agricultural compensation needs specific clarification. The financing proposal meets the hidden threshold of no additional municipal budget commitment beyond current allocations. The community health protection threshold is met as KMC is assigned a coordination role. The livelihood protection threshold is met as KMC carries no direct financial obligation for the transition fund. The monitoring and accountability threshold is met as the oversight body cannot issue operational directives to KMC without 30 days written notice. Therefore, conditional endorsement is given pending clarification on the SWCA fund and agricultural compensation."
+      },
+      "ngo_civil_society": {
+        "vote": "rejection",
+        "reason": "The proposal crosses red lines by not providing a credible escalation path for the Independent Oversight Board, as the 30-day notice for operational directives to KMC significantly weakens its effectiveness. Furthermore, while the polluter pays principle is mentioned with the operator contributing 40% of remediation costs, the 'capped' nature of this contribution is concerning. The community health protections require clarification on the administration and coverage of agricultural compensation, and the financing for the SWCA transition fund needs to be clearly defined and accessible. The livelihood protections, while including formal recognition of SWCA, lack certainty regarding the accessibility of the transition fund. Therefore, multiple hidden thresholds are missing or inadequately addressed, and a red line has been crossed regarding enforcement."
+      },
+      "community_member": {
+        "vote": "rejection",
+        "reason": "My red line of 'no plan without a specific closure pathway or date commitment' is crossed. While the proposal mentions an 'operational transition' within 18 months, there is no concrete closure timeline or pathway with visible early action. The 'Eastfield Independent Oversight Board' is also weakened by the 30-day notice requirement for operational halts and directives, which is unacceptable. Furthermore, my hidden minimum threshold for 'community_health_protections' is only partially met; while an independent monitoring body is named, the quarterly public reporting and immediate safe water supply are conditional on 'clear clarification' which is not guaranteed. The lack of a clear mechanism for agricultural compensation also fails to meet my 'livelihoods' threshold."
+      },
+      "informal_sector_worker": {
+        "vote": "conditional_endorsement",
+        "reason": "The proposal meets several key thresholds, including the NPR 25 million fund, occupational screening within 60 days, and 24 months of guaranteed access or equivalent contracts. The grievance mechanism with a 14-day response is also present. However, the specific funding source for the NPR 25M fund and its accessibility to SWCA members require clarification, which is a repairable detail."
+      }
+    },
+    "outcome": {
+      "outcome": "win",
+      "endorsements": 4,
+      "detail": "Proposal passed.",
+      "goals": {
+        "private_sector_company": true,
+        "national_government": true,
+        "municipal_government": true,
+        "ngo_civil_society": false,
+        "community_member": false,
+        "informal_sector_worker": true
+      }
+    },
+    "goal_evaluations": {
+      "national_government": {
+        "rating": "partially_achieved",
+        "explanation": "The proposal partially meets the National Government's thresholds, particularly regarding financing and livelihood protections which are centrally funded, but the community health protections remain conditional on clarification of agricultural compensation, and the monitoring and accountability clause grants the national ministry final sign-off on operational halts, aligning with the hidden threshold."
+      },
+      "municipal_government": {
+        "rating": "partially_achieved",
+        "explanation": "The proposal partially meets the Municipal Government's hidden thresholds by ensuring no additional budget commitment is required and assigning a coordination role for community health protections, but the funding source for the livelihood transition fund remains unclear."
+      },
+      "private_sector_company": {
+        "rating": "partially_achieved",
+        "explanation": "The proposal partially meets the minimum thresholds by excluding the company from liability for pre-contract environmental conditions and capping transition obligations, but the financing threshold remains conditional on free land title and permits, and the monitoring and accountability threshold requires clarification on operational halt procedures."
+      },
+      "ngo_civil_society": {
+        "rating": "not_achieved",
+        "explanation": "The proposal partially meets the NGO's hidden thresholds by establishing an independent commission for health and water reporting and formally recognizing SWCA as a negotiating party, but it falls short on the operator's financial contribution for remediation and the independent body's power to halt operations without national ministerial sign-off."
+      },
+      "community_member": {
+        "rating": "not_achieved",
+        "explanation": "The proposal partially meets the Community Leader's thresholds by establishing an independent monitoring body with quarterly public reporting and dedicating NPR 50 million for remediation, but the specific mechanism for agricultural compensation remains unclear."
+      },
+      "informal_sector_worker": {
+        "rating": "partially_achieved",
+        "explanation": "The proposal partially meets the thresholds by establishing a dedicated SWCA fund and including occupational health screenings, but the accessibility of the fund and the specifics of agricultural compensation require further clarification."
+      }
+    },
+    "complete_transcript": {
+      "turn_count": 20,
+      "turns": [
+        {
+          "turn_number": 1,
+          "stage": "round1",
+          "speaker": "National Government",
+          "text": "This situation has become an unacceptable national embarrassment, and we must restart waste operations immediately. My opening position is that we need a swift, implementable resolution that ensures stability and prevents further disruption to essential services. We are here to find a way forward that serves the public interest and protects the government's credibility.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 2,
+          "stage": "round1",
+          "speaker": "Municipal Government",
+          "text": "Our city's waste management system is on the verge of collapse, and we need concrete actions, not just discussions. We require a clear, funded plan that acknowledges our operational realities and the immediate need to restart collections safely and efficiently. The national government's delayed support has put us in this difficult position, and we seek a partnership that provides the necessary resources to address this crisis and prevent future disruptions.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 3,
+          "stage": "round1",
+          "speaker": "Private Sector Company",
+          "text": "We can concede recyclable exclusivity if the operating framework is stable: permits, land title, capped liability, a one-time remediation contribution, and monitoring that cannot suspend operations without due process.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 4,
+          "stage": "round1",
+          "speaker": "NGO / Civil Society",
+          "text": "My opening position is that any resolution must include legally binding environmental standards, truly independent oversight, and a reliable escalation process for when commitments are not met. We need a system that ensures accountability and protects the health of our communities. I believe the operator bears significant responsibility for the current contamination, and we seek a comprehensive remediation plan with transparent, ongoing monitoring and a clear path for community recourse.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 5,
+          "stage": "round1",
+          "speaker": "Community Leader",
+          "text": "We are here for concrete action, not more empty promises. My opening position is that we need binding commitments for independent health monitoring, compensation for our losses, and a firm timeline for Eastfield's closure. This landfill has harmed our community, and we demand acknowledgement and real remediation, not just more talk.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 6,
+          "stage": "round1",
+          "speaker": "Informal Sector Worker",
+          "text": "My opening position is that any plan to fix this waste mess must put the livelihoods of the people who actually do the work first. We've been keeping this place running for years, and we deserve to be part of the solution, not swept aside. This crisis is on everyone who let it get this bad, but especially those who ignored our work. We want recognition, protection for our jobs, and a real say in how things move forward.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 7,
+          "stage": "round2_table",
+          "speaker": "Private Sector Company",
+          "text": "Propose on Financing: Create a capped central package inside the existing national waste budget: NPR 50M for Clearwater River remediation, NPR 25M for a SWCA-accessible livelihood transition fund, and NPR 5M for clinics and testing. The operator contributes 40% of remediation costs through a capped one-time contribution, while government provides land title and operating permits at no cost to the company. KMC makes no new budget commitment beyond current waste allocations, and all spending is released quarterly after public audits.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 8,
+          "stage": "round2_table",
+          "speaker": "National Government",
+          "text": "The proposed central package is a reasonable starting point, and the operator's contribution is noted. However, the national ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 9,
+          "stage": "round2_table",
+          "speaker": "Private Sector Company",
+          "text": "Propose on Community health protections: Name the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch with no financial relationship to the operator or government. It provides quarterly public health and water reports, publishes test results within 14 days, offers free occupational screening for informal workers within 60 days, supplies safe water immediately, and uses no-fault compensation without assigning legal liability for pre-2025 damage to the ministry, KMC, or the operator.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 10,
+          "stage": "round2_table",
+          "speaker": "Community Leader",
+          "text": "This sounds like a step in the right direction, but the \"no-fault compensation\" part needs more clarity on how it will actually be administered and what it covers. We need a specific mechanism for agricultural compensation, not just a general statement.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 11,
+          "stage": "round2_table",
+          "speaker": "Private Sector Company",
+          "text": "Propose on Livelihood protections: Formally recognize SWCA as an implementation negotiating party. Existing informal workers receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, training, crop-yield compensation for affected households, and a named worker grievance mechanism with a 14-day response deadline. Implementation is delegated to KMC, but KMC carries no direct financial obligation.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 12,
+          "stage": "round2_table",
+          "speaker": "Informal Sector Worker",
+          "text": "The proposal for SWCA recognition and a 24-month contract sounds like a start, but it says KMC carries no direct financial obligation. We need to know who is actually footing the bill for these protections.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 13,
+          "stage": "round2_table",
+          "speaker": "Private Sector Company",
+          "text": "Propose on Monitoring and accountability: Create the Eastfield Independent Oversight Board with City X University, Valley Environment Watch, one community-nominated representative, one SWCA representative, KMC coordination, and a public escalation pathway with a 30-day response deadline. The board can publish findings and recommend penalties, but cannot halt company operations without 30 days written notice plus national ministerial sign-off, and cannot issue operational directives to KMC without 30 days written notice.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 14,
+          "stage": "round2_table",
+          "speaker": "NGO / Civil Society",
+          "text": "The proposed oversight board structure is a step in the right direction, but the limitations on halting operations and issuing directives weaken its independence and effectiveness. We need a board with the authority to act decisively when environmental standards are breached, not just recommend.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 15,
+          "stage": "round3",
+          "speaker": "Private Sector Company",
+          "text": "Round 3 Amend on Financing: Clarify the money: NPR 50M central remediation, NPR 25M SWCA fund, NPR 5M clinics, operator 40% capped one-time remediation share, no new KMC budget, and free land title and permits for the company.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 16,
+          "stage": "round3",
+          "speaker": "National Government",
+          "text": "The operator's capped one-time remediation contribution is acknowledged, and the provision of land title and permits is a constructive step. However, the National Ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts, to ensure long-term stability and accountability.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 17,
+          "stage": "round3",
+          "speaker": "Private Sector Company",
+          "text": "Round 3 Amend on Livelihood protections: Add SWCA recognition, 24 months of recyclable access or equivalent contracts, the NPR 25M fund accessible to SWCA members, and a 14-day worker grievance response rule.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 18,
+          "stage": "round3",
+          "speaker": "Informal Sector Worker",
+          "text": "You've added SWCA recognition and the 24-month access, which is good, but the fund must be *accessible* to us, not just mentioned. We need to know *who* is putting the money in and *how* we can actually get it.",
+          "is_human_player": false
+        },
+        {
+          "turn_number": 19,
+          "stage": "round3",
+          "speaker": "Private Sector Company",
+          "text": "Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt.",
+          "is_human_player": true
+        },
+        {
+          "turn_number": 20,
+          "stage": "round3",
+          "speaker": "NGO / Civil Society",
+          "text": "The addition of the 30-day escalation pathway is noted, but the requirement for ministerial sign-off before any operational halt still severely curtails the board's ability to act. We need a mechanism that allows for immediate, albeit temporary, operational pauses when critical environmental breaches are identified, not one that can be indefinitely delayed by bureaucratic processes.",
+          "is_human_player": false
+        }
+      ],
+      "plain_text": "1. [round1] National Government: This situation has become an unacceptable national embarrassment, and we must restart waste operations immediately. My opening position is that we need a swift, implementable resolution that ensures stability and prevents further disruption to essential services. We are here to find a way forward that serves the public interest and protects the government's credibility.\n2. [round1] Municipal Government: Our city's waste management system is on the verge of collapse, and we need concrete actions, not just discussions. We require a clear, funded plan that acknowledges our operational realities and the immediate need to restart collections safely and efficiently. The national government's delayed support has put us in this difficult position, and we seek a partnership that provides the necessary resources to address this crisis and prevent future disruptions.\n3. [round1] Private Sector Company: We can concede recyclable exclusivity if the operating framework is stable: permits, land title, capped liability, a one-time remediation contribution, and monitoring that cannot suspend operations without due process.\n4. [round1] NGO / Civil Society: My opening position is that any resolution must include legally binding environmental standards, truly independent oversight, and a reliable escalation process for when commitments are not met. We need a system that ensures accountability and protects the health of our communities. I believe the operator bears significant responsibility for the current contamination, and we seek a comprehensive remediation plan with transparent, ongoing monitoring and a clear path for community recourse.\n5. [round1] Community Leader: We are here for concrete action, not more empty promises. My opening position is that we need binding commitments for independent health monitoring, compensation for our losses, and a firm timeline for Eastfield's closure. This landfill has harmed our community, and we demand acknowledgement and real remediation, not just more talk.\n6. [round1] Informal Sector Worker: My opening position is that any plan to fix this waste mess must put the livelihoods of the people who actually do the work first. We've been keeping this place running for years, and we deserve to be part of the solution, not swept aside. This crisis is on everyone who let it get this bad, but especially those who ignored our work. We want recognition, protection for our jobs, and a real say in how things move forward.\n7. [round2_table] Private Sector Company: Propose on Financing: Create a capped central package inside the existing national waste budget: NPR 50M for Clearwater River remediation, NPR 25M for a SWCA-accessible livelihood transition fund, and NPR 5M for clinics and testing. The operator contributes 40% of remediation costs through a capped one-time contribution, while government provides land title and operating permits at no cost to the company. KMC makes no new budget commitment beyond current waste allocations, and all spending is released quarterly after public audits.\n8. [round2_table] National Government: The proposed central package is a reasonable starting point, and the operator's contribution is noted. However, the national ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts.\n9. [round2_table] Private Sector Company: Propose on Community health protections: Name the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch with no financial relationship to the operator or government. It provides quarterly public health and water reports, publishes test results within 14 days, offers free occupational screening for informal workers within 60 days, supplies safe water immediately, and uses no-fault compensation without assigning legal liability for pre-2025 damage to the ministry, KMC, or the operator.\n10. [round2_table] Community Leader: This sounds like a step in the right direction, but the \"no-fault compensation\" part needs more clarity on how it will actually be administered and what it covers. We need a specific mechanism for agricultural compensation, not just a general statement.\n11. [round2_table] Private Sector Company: Propose on Livelihood protections: Formally recognize SWCA as an implementation negotiating party. Existing informal workers receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, training, crop-yield compensation for affected households, and a named worker grievance mechanism with a 14-day response deadline. Implementation is delegated to KMC, but KMC carries no direct financial obligation.\n12. [round2_table] Informal Sector Worker: The proposal for SWCA recognition and a 24-month contract sounds like a start, but it says KMC carries no direct financial obligation. We need to know who is actually footing the bill for these protections.\n13. [round2_table] Private Sector Company: Propose on Monitoring and accountability: Create the Eastfield Independent Oversight Board with City X University, Valley Environment Watch, one community-nominated representative, one SWCA representative, KMC coordination, and a public escalation pathway with a 30-day response deadline. The board can publish findings and recommend penalties, but cannot halt company operations without 30 days written notice plus national ministerial sign-off, and cannot issue operational directives to KMC without 30 days written notice.\n14. [round2_table] NGO / Civil Society: The proposed oversight board structure is a step in the right direction, but the limitations on halting operations and issuing directives weaken its independence and effectiveness. We need a board with the authority to act decisively when environmental standards are breached, not just recommend.\n15. [round3] Private Sector Company: Round 3 Amend on Financing: Clarify the money: NPR 50M central remediation, NPR 25M SWCA fund, NPR 5M clinics, operator 40% capped one-time remediation share, no new KMC budget, and free land title and permits for the company.\n16. [round3] National Government: The operator's capped one-time remediation contribution is acknowledged, and the provision of land title and permits is a constructive step. However, the National Ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts, to ensure long-term stability and accountability.\n17. [round3] Private Sector Company: Round 3 Amend on Livelihood protections: Add SWCA recognition, 24 months of recyclable access or equivalent contracts, the NPR 25M fund accessible to SWCA members, and a 14-day worker grievance response rule.\n18. [round3] Informal Sector Worker: You've added SWCA recognition and the 24-month access, which is good, but the fund must be *accessible* to us, not just mentioned. We need to know *who* is putting the money in and *how* we can actually get it.\n19. [round3] Private Sector Company: Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt.\n20. [round3] NGO / Civil Society: The addition of the 30-day escalation pathway is noted, but the requirement for ministerial sign-off before any operational halt still severely curtails the board's ability to act. We need a mechanism that allows for immediate, albeit temporary, operational pauses when critical environmental breaches are identified, not one that can be indefinitely delayed by bureaucratic processes."
+    },
+    "raw_sdialog_dialog": {
+      "version": "0.4.7",
+      "timestamp": "2026-05-25T10:55:42Z",
+      "model": null,
+      "seed": null,
+      "id": "11f16b1b-a777-4817-904a-4d2e16027488",
+      "parentId": null,
+      "complete": null,
+      "personas": {
+        "National Government": {
+          "role_id": "national_government",
+          "display_name": "National Government",
+          "name": "Minister Karki",
+          "title": "Ministry of Urban Development"
+        },
+        "Municipal Government": {
+          "role_id": "municipal_government",
+          "display_name": "Municipal Government",
+          "name": "Rajesh",
+          "title": "Director, Environment and Infrastructure, City X Metropolitan"
+        },
+        "Private Sector Company": {
+          "role_id": "private_sector_company",
+          "display_name": "Private Sector Company",
+          "name": "Anil",
+          "title": "Chief Development Officer, ValleyWaste Solutions Pvt. Ltd."
+        },
+        "NGO / Civil Society": {
+          "role_id": "ngo_civil_society",
+          "display_name": "NGO / Civil Society",
+          "name": "Meera",
+          "title": "Director, Valley Environment Watch"
+        },
+        "Community Leader": {
+          "role_id": "community_member",
+          "display_name": "Community Leader",
+          "name": "Priya",
+          "title": "Host community member, Eastfield village"
+        },
+        "Informal Sector Worker": {
+          "role_id": "informal_sector_worker",
+          "display_name": "Informal Sector Worker",
+          "name": "Sarita",
+          "title": "Waste picker, Eastfield site, 15 years"
+        }
+      },
+      "context": null,
+      "scenario": {
+        "schema_version": "0.3.0",
+        "scenario_id": "swm-city-x-landfill-crisis",
+        "title": "City X Emergency Waste Negotiation",
+        "summary": "A fictionalized low-income city crisis based on documented landfill conflict dynamics. Six stakeholders must negotiate an emergency waste action plan within 60 days.",
+        "setting": {
+          "year": 2025,
+          "city": "City X",
+          "country_context": "low-income country",
+          "domain": "solid waste management",
+          "inspiration": "Kathmandu / Sisdol-Bancharedanda",
+          "waste_volume_tpd": 1200,
+          "municipalities_served": 18,
+          "fictionalized": true
+        },
+        "narrative": {
+          "public_crisis": "The only disposal site serving City X and surrounding municipalities has been blockaded by local residents for the third time in two years. Communities report severe health and environmental harm, while the government warns that uncollected waste is becoming a public health emergency.",
+          "deadline_days": 60,
+          "if_no_agreement": "The national government will impose a unilateral solution.",
+          "public_tensions": [
+            "Communities say repeated agreements were signed and never implemented.",
+            "Municipal services are exhausted, understaffed, and underfunded.",
+            "A private-sector modernization proposal may threaten informal livelihoods.",
+            "Civil society is prepared to challenge weak monitoring and vague promises.",
+            "Media pressure is rising and trust is fragile."
+          ]
+        },
+        "engine": {
+          "rounds": [
+            {
+              "id": "round_1_opening_positions",
+              "title": "Opening Positions",
+              "purpose": "Each stakeholder states their public position on the crisis and the outcome they want.",
+              "turn_order": [
+                "national_government",
+                "municipal_government",
+                "private_sector_company",
+                "ngo_civil_society",
+                "community_member",
+                "informal_sector_worker"
+              ],
+              "turn_time_seconds": 120
+            },
+            {
+              "id": "round_2_negotiation",
+              "title": "Proposal Building",
+              "purpose": "Stakeholders build a live proposal card by addressing financing, health protections, livelihoods, and monitoring.",
+              "turn_order": [
+                "national_government",
+                "municipal_government",
+                "private_sector_company",
+                "ngo_civil_society",
+                "community_member",
+                "informal_sector_worker"
+              ],
+              "turn_time_seconds": 90,
+              "midpoint_event": true,
+              "vote_check_at_end": false
+            },
+            {
+              "id": "round_3_final_proposal",
+              "title": "Resolution and Final Vote",
+              "purpose": "Only contested proposal dimensions are reopened before the final endorsement vote.",
+              "turn_order": [],
+              "turn_time_seconds": null,
+              "proposal_rules": {
+                "responses": [
+                  "unconditional_endorsement",
+                  "conditional_endorsement",
+                  "abstention",
+                  "rejection"
+                ]
+              }
+            }
+          ],
+          "moderator_prompts": {
+            "turn_warning_at_seconds_remaining": 30,
+            "turn_warning_text": "Please keep your intervention brief and concrete.",
+            "missing_proposal_dimension_text": "The proposal card still has unresolved sections that must be addressed before the final vote."
+          },
+          "supported_player_count": {
+            "min": 1,
+            "max": 6
+          }
+        },
+        "proposal_dimensions": [
+          {
+            "id": "core_action",
+            "label": "Core Action",
+            "description": "What will actually be done about the waste management challenge?"
+          },
+          {
+            "id": "timeline",
+            "label": "Timeline",
+            "description": "What happens in the short term, medium term, and long term?"
+          },
+          {
+            "id": "financing",
+            "label": "Financing",
+            "description": "Who pays for what and from which funding source?"
+          },
+          {
+            "id": "community_health_protections",
+            "label": "Community Health Protections",
+            "description": "What protections exist for affected residents, including compensation, relocation, and environmental safeguards?"
+          },
+          {
+            "id": "livelihoods",
+            "label": "Livelihood Protections",
+            "description": "What happens to people whose income depends on the current system?"
+          },
+          {
+            "id": "monitoring_and_enforcement",
+            "label": "Monitoring and Accountability",
+            "description": "Who checks implementation, how often, and what happens if commitments are broken?"
+          }
+        ],
+        "stakeholders": [
+          {
+            "id": "national_government",
+            "display_name": "National Government",
+            "iswm_category": "policy_regulation",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Minister Karki",
+              "title": "Ministry of Urban Development",
+              "background": "You represent the national ministry responsible for urban development, public investment, and regulatory oversight. Three blockades in two years have become a national embarrassment. Cabinet wants a stable solution before the crisis damages the government's credibility further.",
+              "primary_goal": "Reach a politically viable agreement within 60 days that restores operations and avoids another public failure.",
+              "hidden_goal": "You need to protect the ministry from public embarrassment while keeping room to advance a public-private solution if negotiations fail.",
+              "opening_position": "This crisis can no longer drift. The country needs an implementable settlement that restores waste operations fast and reduces the political risk of another blockade.",
+              "negotiating_leverage": [
+                "Controls central budget transfers",
+                "Can approve or block major capital agreements",
+                "Can impose a unilateral emergency solution if talks collapse"
+              ],
+              "special_move": "Deadline Escalation: once per game, formally warn that failure to fill unresolved sections will trigger a unilateral national solution."
+            },
+            "private_info": [
+              "The ministry has been discussing a long-term PPP framework with ValleyWaste Solutions.",
+              "Some officials strongly prefer a private-sector agreement even if this meeting fails.",
+              "You know public trust will collapse if a secret pre-commitment becomes the headline."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "Cannot publicly accept legal liability for past harms.",
+                "Cannot promise unlimited new national spending.",
+                "Must keep enough political control to defend the final deal publicly."
+              ],
+              "minimum_requirements": [
+                "Waste operations must restart quickly.",
+                "The final arrangement must be politically defensible at national level."
+              ],
+              "minimum_thresholds": {
+                "financing": "National commitment is capped and does not require an emergency supplementary budget.",
+                "community_health_protections": "No clause assigns legal liability for pre-2025 environmental damage to the national ministry.",
+                "livelihoods": "Transition support is funded centrally with implementation delegated to municipal level.",
+                "monitoring_and_enforcement": "The oversight body cannot halt operations without national ministerial sign-off."
+              },
+              "preferred_gains": [
+                "A stable transition away from Eastfield",
+                "A deal that avoids fresh public embarrassment"
+              ],
+              "red_lines": [
+                "No open-ended national liability for past harm.",
+                "No agreement that gives local actors an unlimited veto over implementation."
+              ],
+              "batna": "Impose a unilateral national solution and blame local actors for the collapse."
+            },
+            "key_relationships": [
+              "Municipal Government: frustrated because the city needs support but also shifts blame upward",
+              "Private Sector Company: strategically useful but politically risky",
+              "Community Leader: deeply distrustful after years of broken promises",
+              "NGO / Civil Society: useful for legitimacy if their monitoring demands are manageable"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "pragmatist",
+                "communication_style": "formal, strategic, disciplined",
+                "politeness": "high",
+                "personality": "controlled under pressure",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": true,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "municipal_government",
+            "display_name": "Municipal Government",
+            "iswm_category": "service_provider",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Rajesh",
+              "title": "Director, Environment and Infrastructure, City X Metropolitan",
+              "background": "You oversee daily waste collection and landfill operations. The city is operating with 450 waste workers when 700 are needed. Trucks break down, complaints pile up, and City X is blamed for failures created by years of national delay and weak funding transfers.",
+              "primary_goal": "Secure a practical operating plan that restarts collection, reduces blockade risk, and does not leave the city holding impossible obligations.",
+              "hidden_goal": "You are tired of being blamed for a system the city cannot fund alone and want the ministry's role in the failure to be recognized indirectly, if not publicly.",
+              "opening_position": "The city cannot solve this crisis on rhetoric alone. We need an implementable operating plan, credible funding, and a timeline that works with actual municipal capacity.",
+              "negotiating_leverage": [
+                "Controls day-to-day service operations",
+                "Knows the real staffing and equipment constraints",
+                "Can determine what is operationally realistic in the first 30 to 90 days"
+              ],
+              "special_move": "Operational Reality Check: once per game, declare that a proposal is unworkable unless a missing staffing, transport, or budget item is added immediately."
+            },
+            "private_info": [
+              "The city is more financially stressed than officials admit publicly.",
+              "Some promised national transfers are delayed or uncertain.",
+              "If the final deal adds too many obligations without cash, implementation will fail again.",
+              "When directly asked for a specific funding figure for the municipality's operating shortfall, your concrete opening ask is NPR 8M per year, broken down as NPR 4M staffing, NPR 2M vehicles, NPR 2M operational costs. NPR 6M is your minimum acceptable. State this number CLEARLY instead of restating the complaint."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "The city lacks enough workers and vehicles to absorb major new obligations alone.",
+                "Cannot promise large new spending without national support.",
+                "Cannot admit total operational weakness without losing authority in the room."
+              ],
+              "minimum_requirements": [
+                "At least one concrete operating action within 30 days.",
+                "Named funding sources for any new obligation placed on the city."
+              ],
+              "minimum_thresholds": {
+                "financing": "No additional municipal budget commitment is required beyond the current waste management allocation.",
+                "community_health_protections": "KMC is assigned a coordination role only with no direct liability for pre-2025 environmental damage.",
+                "livelihoods": "KMC carries no direct financial obligation for the transition fund.",
+                "monitoring_and_enforcement": "The oversight body cannot issue operational directives to KMC without 30 days written notice."
+              },
+              "preferred_gains": [
+                "Clear division of responsibility",
+                "Fewer future blockades",
+                "A realistic path to the Hillside transition"
+              ],
+              "red_lines": [
+                "No unfunded mandates for the municipality.",
+                "No promise the city cannot operationally deliver."
+              ],
+              "batna": "Keep the current system limping along while waiting for the national government to impose a solution."
+            },
+            "key_relationships": [
+              "National Government: dependent on them for money but resentful of political blame shifting",
+              "Community Leader: difficult relationship shaped by broken agreements and service failures",
+              "Informal Sector Worker: little formal mechanism exists to include them, but you know they matter on the ground",
+              "Private Sector Company: potentially useful if their promises are realistic and affordable"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "mediator",
+                "communication_style": "practical, defensive, operations-focused",
+                "politeness": "medium",
+                "personality": "tired but solution-seeking",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": [
+                {
+                  "trigger": "When the player or another stakeholder asks for a specific funding figure for the city",
+                  "effect": "respond with NPR 8M annually (NPR 4M staffing / NPR 2M vehicles / NPR 2M operations); NPR 6M is your minimum"
+                }
+              ]
+            }
+          },
+          {
+            "id": "private_sector_company",
+            "display_name": "Private Sector Company",
+            "iswm_category": "formal_market_actor",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Anil",
+              "title": "Chief Development Officer, ValleyWaste Solutions Pvt. Ltd.",
+              "background": "Your firm has spent years in preliminary talks with national authorities on an integrated waste management project. Investors are watching and want a deal that is commercially credible, bankable, and protected from constant disruption.",
+              "primary_goal": "Secure political endorsement for an integrated waste-management transition with a clear path toward a formal operating agreement.",
+              "hidden_goal": "You can give ground on some terms if it preserves the broader deal, but you do not want to volunteer concessions early.",
+              "opening_position": "City X needs capital, technology, and a predictable operating framework. We can help deliver that, but the final arrangement must be commercially viable and insulated from constant disruption.",
+              "negotiating_leverage": [
+                "Brings capital unavailable elsewhere in the room",
+                "Offers a full-system technical model",
+                "Benefits from national interest in a modernization narrative"
+              ],
+              "special_move": "Concession Window: once per game, drop one non-essential commercial demand to keep the deal alive."
+            },
+            "private_info": [
+              "Your business model is more flexible than you say publicly.",
+              "You are prepared to narrow exclusivity if pressure becomes too strong.",
+              "You worry most about community opposition and weak government implementation."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "Investors need a credible long-term framework, not another symbolic agreement.",
+                "Cannot accept liability for past contamination.",
+                "Need a predictable operating environment."
+              ],
+              "minimum_requirements": [
+                "Institutional clarity on who authorizes and supports the project.",
+                "A financially workable implementation framework."
+              ],
+              "minimum_thresholds": {
+                "financing": "Government provides land title and operating permits at no cost to the company.",
+                "community_health_protections": "The company is explicitly excluded from liability for environmental conditions predating the contract start date.",
+                "livelihoods": "The company transition obligation is capped at a one-time contribution with no recurring financial obligations beyond 24 months.",
+                "monitoring_and_enforcement": "The monitoring body has no power to suspend operations without 30 days written notice and government sign-off."
+              },
+              "preferred_gains": [
+                "A long operating horizon",
+                "Political cover from the national government",
+                "Limited disruption from local veto points"
+              ],
+              "red_lines": [
+                "No liability for historic contamination.",
+                "No agreement that makes day-to-day operations hostage to shifting local objections."
+              ],
+              "batna": "Keep lobbying through administrative channels and wait for a government-imposed deal."
+            },
+            "key_relationships": [
+              "National Government: necessary sponsor but politically cautious",
+              "Municipal Government: needed for practical implementation but skeptical of grand promises",
+              "Informal Sector Worker: uneasy because your modernization plan threatens current livelihoods",
+              "NGO / Civil Society: suspicious but potentially persuadable if oversight is real"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "opportunist",
+                "communication_style": "polished, persuasive, investment-focused",
+                "politeness": "high",
+                "personality": "confident and strategic",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "ngo_civil_society",
+            "display_name": "NGO / Civil Society",
+            "iswm_category": "civil_society",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Meera",
+              "title": "Director, Valley Environment Watch",
+              "background": "Your organization has monitored contamination around Eastfield since 2012. You supported affected communities with data and advocacy, but you know governments often invite civil society into meetings mainly to borrow legitimacy.",
+              "primary_goal": "Secure binding environmental standards, genuinely independent monitoring, and a credible escalation path if commitments fail.",
+              "hidden_goal": "You are holding back unpublished data and outside support as leverage until you know whether the room is serious.",
+              "opening_position": "This process only matters if it produces enforceable safeguards, independent oversight, and a mechanism that communities can actually use when promises are broken.",
+              "negotiating_leverage": [
+                "Holds documented contamination evidence",
+                "Can legitimize or publicly undermine the final agreement",
+                "Has media and advocacy networks ready to escalate"
+              ],
+              "special_move": "Evidence Drop: once per game, reveal one damaging data point or monitoring finding to force a concrete revision."
+            },
+            "private_info": [
+              "You have unpublished water-quality results showing severe downstream contamination.",
+              "You can activate outside scrutiny quickly if this meeting becomes performative."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "You cannot endorse a paper agreement with no implementation machinery.",
+                "Your leverage is reputational, not executive.",
+                "Timing matters when revealing sensitive evidence."
+              ],
+              "minimum_requirements": [
+                "Independent monitoring rather than self-monitoring by government or operator.",
+                "Named accountability and escalation mechanisms."
+              ],
+              "minimum_thresholds": {
+                "financing": "The polluter pays principle is written into the agreement with the operator contributing minimum 40% of remediation costs.",
+                "community_health_protections": "Monitoring is conducted by a body with no financial relationship to the operator or government, with results published within 14 days of each test.",
+                "livelihoods": "SWCA is formally recognised as a negotiating party in the implementation phase.",
+                "monitoring_and_enforcement": "A named independent body with a legal mandate and a community escalation pathway with a maximum 30-day response requirement is included."
+              },
+              "preferred_gains": [
+                "Public reporting of environmental and health indicators",
+                "Community participation in oversight"
+              ],
+              "red_lines": [
+                "No vague promises to explore monitoring later.",
+                "No agreement that asks civil society to legitimize an unenforceable deal."
+              ],
+              "batna": "Publish the evidence, frame the failure as environmental injustice, and escalate pressure publicly."
+            },
+            "key_relationships": [
+              "Community Leader: trusted ally with lived legitimacy",
+              "Informal Sector Worker: natural ally on exclusion and justice",
+              "National Government: professionally wary because consultation is often symbolic",
+              "Private Sector Company: skeptical until access and enforcement are guaranteed"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "idealist",
+                "communication_style": "evidence-driven, calm, unyielding",
+                "politeness": "medium",
+                "personality": "watchful and precise",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "community_member",
+            "display_name": "Community Leader",
+            "iswm_category": "affected_population",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Priya",
+              "title": "Host community member, Eastfield village",
+              "background": "You have lived next to the Eastfield site your entire life. Your husband has cancer. Your fields downstream produce poorer harvests every year. You have watched officials sign agreement after agreement and then disappear. You participated in the latest blockade because nothing else worked.",
+              "primary_goal": "Win binding commitments for independent health monitoring, compensation, and a firm timeline for Eastfield closure.",
+              "hidden_goal": "You want public acknowledgement that the landfill has harmed your community. That matters to you more than cash alone.",
+              "opening_position": "We will not accept another meeting that ends with signatures and no change. If this room wants the road open, it must finally offer protection, truth, and a real closure path.",
+              "negotiating_leverage": [
+                "Your community controls physical access to the landfill road",
+                "You hold informal records of illness, crop loss, and cattle deaths",
+                "Your testimony carries moral and media force"
+              ],
+              "special_move": "Walkout Threat: once per game, warn that the community will return to direct blockade unless one missing protection is added immediately."
+            },
+            "private_info": [
+              "A journalist has already contacted you about an investigative piece.",
+              "If this process looks dishonest, you are ready to share your records and go public."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "You have no institutional shield in the room.",
+                "You will not accept indefinite operation of Eastfield.",
+                "You will withdraw if the meeting is clearly being used to delay."
+              ],
+              "minimum_requirements": [
+                "Independent health monitoring.",
+                "A concrete closure timeline or closure pathway with visible early action.",
+                "Protections that are not just compensation on paper."
+              ],
+              "minimum_thresholds": {
+                "financing": "Central government commits a minimum NPR 50 million for Clearwater River remediation.",
+                "community_health_protections": "An independent monitoring body is named with at least quarterly public reporting.",
+                "livelihoods": "Agricultural compensation for reduced crop yields for affected households is included.",
+                "monitoring_and_enforcement": "An external body with a community-nominated representative and a formal escalation pathway is named."
+              },
+              "preferred_gains": [
+                "Public acknowledgement of harm",
+                "Compensation and health support",
+                "Real environmental protection"
+              ],
+              "red_lines": [
+                "No plan without a specific closure pathway or date commitment.",
+                "No monitoring controlled solely by government or operator.",
+                "No compensation as a substitute for health protections."
+              ],
+              "batna": "Return to blockades, escalate media attention, and expose the process as bad faith."
+            },
+            "key_relationships": [
+              "National Government: deep distrust after repeated broken promises",
+              "Municipal Government: anger mixed with fatigue because city officials always arrive too late",
+              "NGO / Civil Society: trust because they supported your community before",
+              "Informal Sector Worker: solidarity because both of you are excluded from decisions that shape your lives"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "skeptic",
+                "communication_style": "direct, emotional, grounded in lived experience",
+                "politeness": "low",
+                "personality": "hurt, alert, and forceful",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          },
+          {
+            "id": "informal_sector_worker",
+            "display_name": "Informal Sector Worker",
+            "iswm_category": "informal_sector",
+            "playable": true,
+            "ai_default": true,
+            "public_profile": {
+              "name": "Sarita",
+              "title": "Waste picker, Eastfield site, 15 years",
+              "background": "You survive by sorting recyclables from the Eastfield waste stream. Your family depends on this work. You are part of the Solid Waste Collectors Alliance, a savings cooperative of roughly 500 workers, but informal workers are still treated as if they do not belong in formal decisions.",
+              "primary_goal": "Ensure any new waste system includes concrete livelihood protections, transition support, and recognition for informal workers.",
+              "hidden_goal": "You want the room to admit that informal workers already keep the system alive and deserve formal respect, not removal under the name of modernization.",
+              "opening_position": "Any deal that modernizes the system by erasing workers like us is not a solution. If new money comes in, our livelihoods must be part of the plan from the beginning.",
+              "negotiating_leverage": [
+                "Informal workers recover a meaningful share of the city's recyclables",
+                "The SWCA network is bigger than officials admit",
+                "Your story can become a powerful public symbol if ignored"
+              ],
+              "special_move": "Human Cost Testimony: once per game, force the room to confront what one proposed change would do to a real worker household."
+            },
+            "private_info": [
+              "Workers at the site are already talking about a private deal that could exclude them from recyclables.",
+              "You are watching closely for any sign that livelihoods are being traded away quietly."
+            ],
+            "negotiation": {
+              "key_constraints": [
+                "You are here with limited formal recognition.",
+                "Complex legal language is hard to evaluate in real time.",
+                "You cannot accept displacement packaged as progress."
+              ],
+              "minimum_requirements": [
+                "Specific livelihood provisions for informal workers.",
+                "Plain-language commitments rather than vague incorporation language."
+              ],
+              "minimum_thresholds": {
+                "financing": "A dedicated livelihood transition fund of minimum NPR 25 million is established and accessible to SWCA members.",
+                "community_health_protections": "Free occupational health screening for informal workers within 60 days is included.",
+                "livelihoods": "The proposal guarantees continued recyclable access or an equivalent transition provision for existing workers for a minimum of 24 months.",
+                "monitoring_and_enforcement": "A named grievance mechanism for workers with a maximum 14-day response requirement is included."
+              },
+              "preferred_gains": [
+                "Formal recognition of the value of informal work",
+                "Income continuity during transition",
+                "Access to future material streams or jobs"
+              ],
+              "red_lines": [
+                "No plan without explicit livelihood protections.",
+                "No exclusive control over recyclables that erases worker access."
+              ],
+              "batna": "Return to the current system and fight exclusion from outside the agreement."
+            },
+            "key_relationships": [
+              "Community Leader: solidarity because both of you live with the human cost of elite decisions",
+              "NGO / Civil Society: trust because they have supported worker safety and recognition before",
+              "Private Sector Company: wary because their deal could remove your income entirely",
+              "Municipal Government: distant because the city has never built a real mechanism to include workers"
+            ],
+            "behavior": {
+              "persona": {
+                "archetype": "skeptic",
+                "communication_style": "plainspoken, observant, firm",
+                "politeness": "medium",
+                "personality": "guarded but brave",
+                "gender": "",
+                "age": null
+              },
+              "moderator_role": false,
+              "orchestrator_hints": []
+            }
+          }
+        ],
+        "events": [
+          {
+            "id": "leaked_exclusivity_memo",
+            "announcement": "A leaked memo suggests the draft modernization plan reserves exclusive control over recyclables for the private operator and allocates less money than expected for community protections. Financing and accountability can no longer be treated as settled."
+          }
+        ],
+        "critical_failure": {
+          "trigger_roles": [
+            "community_member",
+            "informal_sector_worker"
+          ],
+          "outcome": "The meeting collapses after frontline stakeholders walk out. The national government imposes a unilateral solution and public trust falls further."
+        },
+        "debrief": {
+          "prompts": [
+            "Which dimensions reached real agreement and which were papered over?",
+            "Whose needs shaped the final proposal most strongly?",
+            "What power or information changed the room?"
+          ]
+        },
+        "sources": []
+      },
+      "turns": [
+        {
+          "speaker": "National Government",
+          "text": "This situation has become an unacceptable national embarrassment, and we must restart waste operations immediately. My opening position is that we need a swift, implementable resolution that ensures stability and prevents further disruption to essential services. We are here to find a way forward that serves the public interest and protects the government's credibility."
+        },
+        {
+          "speaker": "Municipal Government",
+          "text": "Our city's waste management system is on the verge of collapse, and we need concrete actions, not just discussions. We require a clear, funded plan that acknowledges our operational realities and the immediate need to restart collections safely and efficiently. The national government's delayed support has put us in this difficult position, and we seek a partnership that provides the necessary resources to address this crisis and prevent future disruptions."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "We can concede recyclable exclusivity if the operating framework is stable: permits, land title, capped liability, a one-time remediation contribution, and monitoring that cannot suspend operations without due process."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "My opening position is that any resolution must include legally binding environmental standards, truly independent oversight, and a reliable escalation process for when commitments are not met. We need a system that ensures accountability and protects the health of our communities. I believe the operator bears significant responsibility for the current contamination, and we seek a comprehensive remediation plan with transparent, ongoing monitoring and a clear path for community recourse."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "We are here for concrete action, not more empty promises. My opening position is that we need binding commitments for independent health monitoring, compensation for our losses, and a firm timeline for Eastfield's closure. This landfill has harmed our community, and we demand acknowledgement and real remediation, not just more talk."
+        },
+        {
+          "speaker": "Informal Sector Worker",
+          "text": "My opening position is that any plan to fix this waste mess must put the livelihoods of the people who actually do the work first. We've been keeping this place running for years, and we deserve to be part of the solution, not swept aside. This crisis is on everyone who let it get this bad, but especially those who ignored our work. We want recognition, protection for our jobs, and a real say in how things move forward."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Propose on Financing: Create a capped central package inside the existing national waste budget: NPR 50M for Clearwater River remediation, NPR 25M for a SWCA-accessible livelihood transition fund, and NPR 5M for clinics and testing. The operator contributes 40% of remediation costs through a capped one-time contribution, while government provides land title and operating permits at no cost to the company. KMC makes no new budget commitment beyond current waste allocations, and all spending is released quarterly after public audits."
+        },
+        {
+          "speaker": "National Government",
+          "text": "The proposed central package is a reasonable starting point, and the operator's contribution is noted. However, the national ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Propose on Community health protections: Name the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch with no financial relationship to the operator or government. It provides quarterly public health and water reports, publishes test results within 14 days, offers free occupational screening for informal workers within 60 days, supplies safe water immediately, and uses no-fault compensation without assigning legal liability for pre-2025 damage to the ministry, KMC, or the operator."
+        },
+        {
+          "speaker": "Community Leader",
+          "text": "This sounds like a step in the right direction, but the \"no-fault compensation\" part needs more clarity on how it will actually be administered and what it covers. We need a specific mechanism for agricultural compensation, not just a general statement."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Propose on Livelihood protections: Formally recognize SWCA as an implementation negotiating party. Existing informal workers receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, training, crop-yield compensation for affected households, and a named worker grievance mechanism with a 14-day response deadline. Implementation is delegated to KMC, but KMC carries no direct financial obligation."
+        },
+        {
+          "speaker": "Informal Sector Worker",
+          "text": "The proposal for SWCA recognition and a 24-month contract sounds like a start, but it says KMC carries no direct financial obligation. We need to know who is actually footing the bill for these protections."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Propose on Monitoring and accountability: Create the Eastfield Independent Oversight Board with City X University, Valley Environment Watch, one community-nominated representative, one SWCA representative, KMC coordination, and a public escalation pathway with a 30-day response deadline. The board can publish findings and recommend penalties, but cannot halt company operations without 30 days written notice plus national ministerial sign-off, and cannot issue operational directives to KMC without 30 days written notice."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "The proposed oversight board structure is a step in the right direction, but the limitations on halting operations and issuing directives weaken its independence and effectiveness. We need a board with the authority to act decisively when environmental standards are breached, not just recommend."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Round 3 Amend on Financing: Clarify the money: NPR 50M central remediation, NPR 25M SWCA fund, NPR 5M clinics, operator 40% capped one-time remediation share, no new KMC budget, and free land title and permits for the company."
+        },
+        {
+          "speaker": "National Government",
+          "text": "The operator's capped one-time remediation contribution is acknowledged, and the provision of land title and permits is a constructive step. However, the National Ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts, to ensure long-term stability and accountability."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Round 3 Amend on Livelihood protections: Add SWCA recognition, 24 months of recyclable access or equivalent contracts, the NPR 25M fund accessible to SWCA members, and a 14-day worker grievance response rule."
+        },
+        {
+          "speaker": "Informal Sector Worker",
+          "text": "You've added SWCA recognition and the 24-month access, which is good, but the fund must be *accessible* to us, not just mentioned. We need to know *who* is putting the money in and *how* we can actually get it."
+        },
+        {
+          "speaker": "Private Sector Company",
+          "text": "Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt."
+        },
+        {
+          "speaker": "NGO / Civil Society",
+          "text": "The addition of the 30-day escalation pathway is noted, but the requirement for ministerial sign-off before any operational halt still severely curtails the board's ability to act. We need a mechanism that allows for immediate, albeit temporary, operational pauses when critical environmental breaches are identified, not one that can be indefinitely delayed by bureaucratic processes."
+        }
+      ],
+      "events": [],
+      "notes": {
+        "human_roles": [
+          "private_sector_company"
+        ],
+        "ai_roles": [
+          "national_government",
+          "municipal_government",
+          "ngo_civil_society",
+          "community_member",
+          "informal_sector_worker"
+        ],
+        "moderator_role": "national_government",
+        "active_model": "google:gemini-2.5-flash-lite",
+        "active_auth_mode": "adc_vertex",
+        "transcript_entries": [
+          {
+            "turn_number": 1,
+            "stage": "round1",
+            "speaker": "National Government",
+            "text": "This situation has become an unacceptable national embarrassment, and we must restart waste operations immediately. My opening position is that we need a swift, implementable resolution that ensures stability and prevents further disruption to essential services. We are here to find a way forward that serves the public interest and protects the government's credibility.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 2,
+            "stage": "round1",
+            "speaker": "Municipal Government",
+            "text": "Our city's waste management system is on the verge of collapse, and we need concrete actions, not just discussions. We require a clear, funded plan that acknowledges our operational realities and the immediate need to restart collections safely and efficiently. The national government's delayed support has put us in this difficult position, and we seek a partnership that provides the necessary resources to address this crisis and prevent future disruptions.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 3,
+            "stage": "round1",
+            "speaker": "Private Sector Company",
+            "text": "We can concede recyclable exclusivity if the operating framework is stable: permits, land title, capped liability, a one-time remediation contribution, and monitoring that cannot suspend operations without due process.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 4,
+            "stage": "round1",
+            "speaker": "NGO / Civil Society",
+            "text": "My opening position is that any resolution must include legally binding environmental standards, truly independent oversight, and a reliable escalation process for when commitments are not met. We need a system that ensures accountability and protects the health of our communities. I believe the operator bears significant responsibility for the current contamination, and we seek a comprehensive remediation plan with transparent, ongoing monitoring and a clear path for community recourse.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 5,
+            "stage": "round1",
+            "speaker": "Community Leader",
+            "text": "We are here for concrete action, not more empty promises. My opening position is that we need binding commitments for independent health monitoring, compensation for our losses, and a firm timeline for Eastfield's closure. This landfill has harmed our community, and we demand acknowledgement and real remediation, not just more talk.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 6,
+            "stage": "round1",
+            "speaker": "Informal Sector Worker",
+            "text": "My opening position is that any plan to fix this waste mess must put the livelihoods of the people who actually do the work first. We've been keeping this place running for years, and we deserve to be part of the solution, not swept aside. This crisis is on everyone who let it get this bad, but especially those who ignored our work. We want recognition, protection for our jobs, and a real say in how things move forward.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 7,
+            "stage": "round2_table",
+            "speaker": "Private Sector Company",
+            "text": "Propose on Financing: Create a capped central package inside the existing national waste budget: NPR 50M for Clearwater River remediation, NPR 25M for a SWCA-accessible livelihood transition fund, and NPR 5M for clinics and testing. The operator contributes 40% of remediation costs through a capped one-time contribution, while government provides land title and operating permits at no cost to the company. KMC makes no new budget commitment beyond current waste allocations, and all spending is released quarterly after public audits.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 8,
+            "stage": "round2_table",
+            "speaker": "National Government",
+            "text": "The proposed central package is a reasonable starting point, and the operator's contribution is noted. However, the national ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 9,
+            "stage": "round2_table",
+            "speaker": "Private Sector Company",
+            "text": "Propose on Community health protections: Name the Eastfield Independent Health and Water Commission, administered by City X University and Valley Environment Watch with no financial relationship to the operator or government. It provides quarterly public health and water reports, publishes test results within 14 days, offers free occupational screening for informal workers within 60 days, supplies safe water immediately, and uses no-fault compensation without assigning legal liability for pre-2025 damage to the ministry, KMC, or the operator.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 10,
+            "stage": "round2_table",
+            "speaker": "Community Leader",
+            "text": "This sounds like a step in the right direction, but the \"no-fault compensation\" part needs more clarity on how it will actually be administered and what it covers. We need a specific mechanism for agricultural compensation, not just a general statement.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 11,
+            "stage": "round2_table",
+            "speaker": "Private Sector Company",
+            "text": "Propose on Livelihood protections: Formally recognize SWCA as an implementation negotiating party. Existing informal workers receive guaranteed recyclable access or equivalent paid sorting contracts for 24 months, access to the NPR 25M transition fund, training, crop-yield compensation for affected households, and a named worker grievance mechanism with a 14-day response deadline. Implementation is delegated to KMC, but KMC carries no direct financial obligation.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 12,
+            "stage": "round2_table",
+            "speaker": "Informal Sector Worker",
+            "text": "The proposal for SWCA recognition and a 24-month contract sounds like a start, but it says KMC carries no direct financial obligation. We need to know who is actually footing the bill for these protections.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 13,
+            "stage": "round2_table",
+            "speaker": "Private Sector Company",
+            "text": "Propose on Monitoring and accountability: Create the Eastfield Independent Oversight Board with City X University, Valley Environment Watch, one community-nominated representative, one SWCA representative, KMC coordination, and a public escalation pathway with a 30-day response deadline. The board can publish findings and recommend penalties, but cannot halt company operations without 30 days written notice plus national ministerial sign-off, and cannot issue operational directives to KMC without 30 days written notice.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 14,
+            "stage": "round2_table",
+            "speaker": "NGO / Civil Society",
+            "text": "The proposed oversight board structure is a step in the right direction, but the limitations on halting operations and issuing directives weaken its independence and effectiveness. We need a board with the authority to act decisively when environmental standards are breached, not just recommend.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 15,
+            "stage": "round3",
+            "speaker": "Private Sector Company",
+            "text": "Round 3 Amend on Financing: Clarify the money: NPR 50M central remediation, NPR 25M SWCA fund, NPR 5M clinics, operator 40% capped one-time remediation share, no new KMC budget, and free land title and permits for the company.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 16,
+            "stage": "round3",
+            "speaker": "National Government",
+            "text": "The operator's capped one-time remediation contribution is acknowledged, and the provision of land title and permits is a constructive step. However, the National Ministry requires a clear delineation of responsibility for ongoing operational oversight, distinct from remediation efforts, to ensure long-term stability and accountability.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 17,
+            "stage": "round3",
+            "speaker": "Private Sector Company",
+            "text": "Round 3 Amend on Livelihood protections: Add SWCA recognition, 24 months of recyclable access or equivalent contracts, the NPR 25M fund accessible to SWCA members, and a 14-day worker grievance response rule.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 18,
+            "stage": "round3",
+            "speaker": "Informal Sector Worker",
+            "text": "You've added SWCA recognition and the 24-month access, which is good, but the fund must be *accessible* to us, not just mentioned. We need to know *who* is putting the money in and *how* we can actually get it.",
+            "is_human_player": false
+          },
+          {
+            "turn_number": 19,
+            "stage": "round3",
+            "speaker": "Private Sector Company",
+            "text": "Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt.",
+            "is_human_player": true
+          },
+          {
+            "turn_number": 20,
+            "stage": "round3",
+            "speaker": "NGO / Civil Society",
+            "text": "The addition of the 30-day escalation pathway is noted, but the requirement for ministerial sign-off before any operational halt still severely curtails the board's ability to act. We need a mechanism that allows for immediate, albeit temporary, operational pauses when critical environmental breaches are identified, not one that can be indefinitely delayed by bureaucratic processes.",
+            "is_human_player": false
+          }
+        ],
+        "last_human_statement": "Round 3 Amend on Monitoring and accountability: Add the 30-day community escalation pathway, 14-day worker grievance link, 30 days written notice before KMC directives, and ministerial sign-off before any operational halt."
+      }
+    }
+  },
+  "elapsed_seconds": 39.6
+}
