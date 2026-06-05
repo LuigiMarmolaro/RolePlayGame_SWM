@@ -14,7 +14,6 @@ The game lets one human player choose a stakeholder role while AI agents play th
 - `src/sdialog/roleplay.py`: scenario loader that converts JSON stakeholders into SDialog personas and agents.
 - `src/sdialog/roleplay_engine.py`: game-state helpers, proposal state, voting, and outcome resolution.
 - `src/sdialog/agents.py`: SDialog agent implementation used by the role-play agents.
-- `docs/PROJECT_REPORT.tex`: final project report source.
 - `SDIALOG_README.md`: original SDialog toolkit README.
 
 ## Install
@@ -70,24 +69,3 @@ The default harness model is `google:gemini-2.5-flash-lite`. Results are saved i
 ```text
 examples/swm_roleplay/simulations/
 ```
-
-## Submission Safety
-
-This prepared folder intentionally excludes:
-
-- local `keys/` folders
-- `.env` files
-- Google Cloud SDK installation files
-- virtual environments
-- Python caches
-- generated build metadata
-
-Before pushing to GitHub, run:
-
-```bash
-git status
-git add .
-git status
-```
-
-Check that no file inside `keys/`, no `.env` file, and no private Google credential JSON appears in the staged files.
